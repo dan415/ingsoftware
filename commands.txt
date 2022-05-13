@@ -1,0 +1,5 @@
+./osmfilter spain-latest.osm --drop-ways --drop-relations | ./osmconvert - -B=CiudadMadrid.poly --all-to-nodes --csv="@id @lon @lat name opening_hours" --csv-headline  --csv-separator=";" | awk 'BEGIN{FS=":";OFS=";"} length($4) > 0 {print $0}' | java -cp mysql-connector-java-8.0.29.jar:. DataLoader
+
+
+
+./osmfilter spain-latest.osm --drop-ways --drop-relations --keep="cuisine=italian or cuisine=peruvian or cuisine=mexican"| ./osmconvert - -B=CiudadMadrid.poly --all-to-nodes --csv="@id @lon @lat name opening_hours phone website" --csv-headline  --csv-separator=";" | awk 'BEGIN{FS=":";OFS=";"} length($4) > 0 {print $0}' | java -cp mysql-connector-java-8.0.29.jar:. DataLoader --cuisine

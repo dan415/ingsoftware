@@ -1,0 +1,824 @@
+basicData/name;basicData/title;geoData/address;geoData/zipcode;geoData/country;geoData/latitude;geoData/longitude;geoData/subAdministrativeArea
+Palacio de la Música;Palacio de la Música;Gran Via, 35;28013;Spain;40.420052200000;-3.704641100000;Madrid
+Iglesia de Santa María la Blanca;Iglesia de Santa María la Blanca;de la Villa de Canillejas, 1;28022;Spain;40.445142632416;-3.611299395561;Madrid
+Café Naves;Café Naves;de la Chopera, 14;28045;Spain;40.392226000000;-3.697704200000;Madrid
+Villa Sotera;Villa Sotera;Vizconde de los Asilos, 5;28027;Spain;40.440606500000;-3.638247800000;Madrid
+Nuestra Señora de la Concepción;Iglesia de Nuestra Señora de la Concepción;de Arturo Soria, 5;28027;Spain;40.438545700000;-3.638911100000;Madrid
+Edificio Cava de San Miguel 11;Edificio Cava de San Miguel 11;Cava de San Miguel, 11;28080;Spain;40.415261400000;-3.708301400000;Madrid
+Edificio Marqués Viudo de Pontejos 1;Edificio Marqués Viudo de Pontejos 1;del Marqués Viudo de Pontejos, 1;28012;Spain;40.415662700000;-3.704443500000;Madrid
+Edificio Montano;Edificio Montano;de San Bernardino, 3;28015;Spain;40.424936500000;-3.710031300000;Madrid
+Edificio Gran Via 34;Edificio Gran Via 34;Gran Vía, 34;28013;Spain;40.420464700000;-3.704030000000;Madrid
+Palacio de la Duquesa de Sueca;Palacio de la Duquesa de Sueca;del Duque de Alba, 2;28012;Spain;40.411792300000;-3.706801800000;Madrid
+Furiosa Gallery;Furiosa Gallery;de Almadén, 13;28014;Spain;40.411210800000;-3.694378000000;Madrid
+Viaje de Agua de Amaniel;Viaje de Agua de Amaniel;de Juan XXIII, 23;28040;Spain;40.450812100000;-3.712702100000;Madrid
+Monumento a los Héroes de Baler;Monumento a los Héroes de Baler;del Conde del Valle de Súchil, s/n;28015;Spain;40.430810552533;-3.707265229597;Madrid
+Espacio Gallinero;Espacio Gallinero;Luis Feito, 24 Local;28047;Spain;40.391310400000;-3.744147500000;Madrid
+Spain Top;Spain Top;de Alcalá, 180,  bajo D;28028;Spain;40.429403100000;-3.665680200000;Madrid
+Farolero madrileño;Farolero madrileño;de Concepción Jerónima, 15;28012;Spain;40.413897200000;-3.705472200000;Madrid
+Punto de Información Turística Palacio Real;Punto de Información Turística Palacio Real;de Bailén, esquina con Calle Requena;28013;Spain;40.417224995134;-3.713067770004;Madrid
+archiTOURSMAD;archiTOURSMAD;de Tirso de Molina, 4;28012;Spain;40.412255200000;-3.703833000000;Madrid
+Poko Espacio;Poko Espacio;Puerta del Sol, 12;28013;Spain;40.417284000000;-3.703415500000;Madrid
+mk2 Institut français de Madrid;mk2 Institut français de Madrid;del Marqués de la Ensenada, 10;28004;Spain;40.424558700000;-3.692346700000;Madrid
+Puerta Real del Jardín Botánico;Puerta Real del Jardín Botánico;del Prado, 11;28014;Spain;40.410559720836;-3.692263363694;Madrid
+Puerta de Felipe IV;Puerta de Felipe IV;de Alfonso XII, s/n;28009;Spain;40.415309494761;-3.688681125641;Madrid
+Fundación María Cristina Masaveu Peterson ;Fundación María Cristina Masaveu Peterson ;Alcalá Galiano, 6;28010;Spain;40.426676300000;-3.691599200000;Madrid
+Cine Yelmo Luxury Palafox;Cine Yelmo Luxury Palafox;de Luchana, 15;28010;Spain;40.430144900000;-3.700898300000;Madrid
+Sala Azca;Sala Azca;del General Perón, 40;28046;Spain;40.451372191770;-3.692715167999;Madrid
+Espacio 5.1 (IFEMA - Feria de Madrid);Espacio 5.1 (IFEMA - Feria de Madrid);Ribera del Sena, 7;28042;Spain;40.467391055986;-3.623391000814;Madrid
+Soho Club Teatro;Soho Club Teatro;de España, 6;28008;Spain;40.422560300000;-3.711840000000;Madrid
+Espacio Delicias;Espacio Delicias;Cristo del Camino, 61;28045;Spain;40.399303400000;-3.691868200000;Madrid
+The Ryder;The Ryder;de Miguel Servet, 13;28012;Spain;40.406572600000;-3.701311100000;Madrid
+Vintage City Tours;Vintage City Tours;Valle de Enmedio, 111;28035;Spain;40.488229000000;-3.723941900000;Madrid
+Ciudad del Arte. Museo Zapadores;Ciudad del Arte. Museo Zapadores;Antonio de Cabezón, 70;28034;Spain;40.495540100000;-3.681767800000;Madrid
+Palacio del Infante Don Luis;Palacio del Infante Don Luis;de Adolfo Suárez, 27;28660;Spain;40.406952537591;-3.874225616455;Boadilla del Monte
+Tras Julia;Tras Julia;del Pez, 42;28015;Spain;40.424364200000;-3.707232600000;Madrid
+El Vecino Curioso;El Vecino Curioso;de la Almudena;28013;Spain;40.415239032957;-3.712980746167;Madrid
+La Abuela roquera;La Abuela roquera;de Peña Gorbea, 22;28053;Spain;40.395236200000;-3.666400000000;Madrid
+La Sirena Varada;La Sirena Varada;de la Castellana, 40;28046;Spain;40.433024771589;-3.687694072723;Madrid
+Al Libro;Al Libro;de Recoletos, 20;28001;Spain;40.423695388890;-3.690956601628;Madrid
+El Día y la Noche;El Día y la Noche;de la Ciudad de Barcelona, 3;28007;Spain;40.406246076495;-3.688548722765;Madrid
+Barrendero madrileño 1960;Barrendero madrileño 1960;de Jacinto Benavente, s/n;28012;Spain;40.414330100000;-3.703286800000;Madrid
+Iglesia de San Antón;Iglesia de San Antón;de Hortaleza, 63;28004;Spain;40.424283000000;-3.698549300000;Madrid
+Puy du Fou España;Puy du Fou España;CM 40, Toledo;45004;Spain;39.840539602487;-4.086956977844;
+Espacios Fiestas del Orgullo LGTBI;Espacios Fiestas del Orgullo LGTBI;de Chueca;;Spain;40.422598600000;-3.697798700000;Madrid
+Parque Warner Beach;Parque Warner Beach;A 4, salida 22;28330;Spain;40.229857092258;-3.589342832565;San Martín de la Vega
+Centro de Estudios Hidrográficos del CEDEX;Centro de Estudios Hidrográficos del CEDEX;Bajo de la Virgen del Puerto, 3;28005;Spain;40.412505300000;-3.722345900000;Madrid
+Fandome;Fandome;Duque de Sesto, 27;28009;Spain;40.422604600000;-3.675309300000;Madrid
+A Punto;A Punto;de Hortaleza, 64;28004;Spain;40.422844500000;-3.699030000000;Madrid
+Catedral Ortodoxa Rusa de Santa María Magdalena;Catedral Ortodoxa Rusa de Santa María Magdalena;de la Gran Vía de Hortaleza, 48;28043;Spain;40.467045592368;-3.651269674301;Madrid
+Histohuellas;Histohuellas;Mayor;28012;Spain;40.416775400000;-3.703790200000;Madrid
+Centro Cultural Flamenco de Madrid;Centro Cultural Flamenco de Madrid;del Conde de Xiquena, 6;28004;Spain;40.422670000000;-3.694062400000;Madrid
+Mirador Payaso Fofó;Mirador Payaso Fofó;Puerto de Costabona, 5;28018;Spain;40.385711300000;-3.658828200000;Madrid
+Torre de San José;Torre de San José;Puerto del Milagro, 6;28018;Spain;40.384323094592;-3.657991290093;Madrid
+Nattivus;Nattivus;--;;Spain;40.416775400000;-3.703790200000;Madrid
+Cool Tour Spain;Cool Tour Spain;de Carrión de los Condes, 77;28033;Spain;40.475835900000;-3.657376500000;Madrid
+Madrid Culture Tour;Madrid Culture Tour;del Hospital, 2;28012;Spain;40.408775500000;-3.695309500000;Madrid
+CSA La Tabacalera de Lavapiés;CSA La Tabacalera de Lavapiés;de Embajadores, 53;28012;Spain;40.406176423414;-3.702977299690;Madrid
+Teatro Municipal de Vallecas;Teatro Municipal de Vallecas;Paso de Villamanrique, 3;28031;Spain;40.377623500000;-3.622909500000;Madrid
+Galería Montsequi;Galería Montsequi;de Alonso Cano, 42;28003;Spain;40.440972300000;-3.697469000000;Madrid
+Edificio Castellana 81 (Torre BBVA);Edificio Castellana 81 (Torre BBVA);de la Castellana, 81;28002;Spain;40.447655900000;-3.692039700000;Madrid
+La Matritense;La Matritense;de Olavide, 4;28010;Spain;40.432520493861;-3.701577186585;Madrid
+Atlantis Aquarium Madrid;Atlantis Aquarium Madrid;Puerto de Navacerrada,;28939;Spain;40.299554331468;-3.923771786658;Arroyomolinos
+Edificio LaMarca;Edificio LaMarca;de Fernando VI, 10;28004;Spain;40.424855900000;-3.695983300000;Madrid
+Salón de Baile del Teatro Real;Salón de Baile del Teatro Real;de Isabel II, s/n;28013;Spain;40.418299121798;-3.710578680039;Madrid
+Espacio SOLO;Espacio SOLO;de la Independencia, 5;28001;Spain;40.420626700000;-3.688245800000;Madrid
+Parque de las Cataratas (Parque Vallecas Villa);Parque de las Cataratas (Parque Vallecas Villa);Babilafuente, 2;28031;Spain;40.372242271150;-3.623786180437;Madrid
+Spaces Retiro;Spaces Retiro;de Alfonso XII, 62;28014;Spain;40.408478600000;-3.689027700000;Madrid
+Casa de México;Casa de México;de Alberto Aguilera, 20;28015;Spain;40.430110300000;-3.709548700000;Madrid
+Palacio de la Moncloa;Palacio de la Moncloa;Puerta de Hierro, s/n;28071;Spain;40.445559042989;-3.734471797943;Madrid
+Mustang Road;Mustang Road;de Fuencarral, 44, Edificio 9, Oficina 34;28108;Spain;40.532161600000;-3.647973000000;Alcobendas
+Escuela Española de Cata;Escuela Española de Cata;de las Mártires Concepcionistas, 19;28006;Spain;40.428983900000;-3.670689200000;Madrid
+Espacio Abierto Quinta de los Molinos;Los libros de Espacio Abierto Quinta de los Molinos;de Alcalá, 527;28027;Spain;40.441277700000;-3.626589100000;Madrid
+Cripta de la Catedral de la Almudena;Cripta de la Catedral de la Almudena;Mayor, 90;28013;Spain;40.415219640526;-3.714336454868;Madrid
+Concha Barrios Gallery;Concha Barrios Gallery;de Villanueva, 27;28001;Spain;40.422394400000;-3.683794600000;Madrid
+Monumento a Alfonso XII;Monumento a Alfonso XII;Maestro Villa;28009;Spain;40.417335267482;-3.683080673218;Madrid
+Huerta de la Partida;Huerta de la Partida;del Embarcadero, 3;28011;Spain;40.417943804229;-3.726312518120;Madrid
+Jardines de San Francisco el Grande;Jardines de San Francisco el Grande;Gran Vía de San Francisco, 29;28005;Spain;40.410043700000;-3.714033400000;Madrid
+Escuela para el arte del actor. Clara Méndez-Leite;Escuela para el arte del actor. Clara Méndez-Leite;de la Palma, 18;28004;Spain;40.426273700000;-3.702987000000;Madrid
+Sala Arapiles 16;Sala Arapiles 16;de Arapiles, 16;28015;Spain;40.433132976438;-3.708210289478;Madrid
+Javier Aranburu;Javier Aranburu;de Guzmán el Bueno, 63;28015;Spain;40.435735965157;-3.713247478008;Madrid
+Centro Cultural Islámico de Madrid;Centro Cultural Islámico de Madrid;Salvador de Madariaga, 7;28027;Spain;40.438608600000;-3.657654100000;Madrid
+Virtual Recall;Virtual Recall;de Madrid, 128;28500;Spain;40.356102244209;-3.546996116638;Arganda del Rey
+Parque Europa;Parque Europa;de los Cipreses, s/n;28850;Spain;40.444914013750;-3.453403115273;Torrejón de Ardoz
+Fundación Fernando de Castro;Fundación Fernando de Castro;de San Mateo, 15;28004;Spain;40.426127600000;-3.698664700000;Madrid
+Centro del Actor;Centro del Actor;Dolores Armengot, 22, bajo;28025;Spain;40.385867400000;-3.743021000000;Madrid
+Sala Intemperie Teatro;Sala Intemperie Teatro;de Velarde, 15;28004;Spain;40.426808000000;-3.703357900000;Madrid
+Impact Hub ;Impact Hub ;del Gobernador, 26;28014;Spain;40.411463013493;-3.694105893374;Madrid
+utopic_US;utopic_US;del Doctor Esquerdo, 114;28007;Spain;40.408669100000;-3.670286000000;Madrid
+Swinton & Grant;Swinton & Grant;de Miguel Servet, 21;28012;Spain;40.405956100000;-3.701775000000;Madrid
+Espositivo;Espositivo;de Palafox, 5;28010;Spain;40.430663100000;-3.701082200000;Madrid
+Lock & Be Free (calle Toledo);Lock & Be Free (calle Toledo);de Toledo, 41;28005;Spain;40.412386107360;-3.707657754421;Madrid
+Sala Equis;Sala Equis;del Duque de Alba, 4;28012;Spain;40.411986148280;-3.705877224834;Madrid
+Rompeolas;Rompeolas;de Tarragona, 18;28045;Spain;40.401565507973;-3.696600347757;Madrid
+La Escalera de Jacob;La Escalera de Jacob;de Lavapiés, 9;28012;Spain;40.411400724623;-3.702773451805;Madrid
+Espacio Mad Cool / Recinto Valdebebas - IFEMA;Espacio Mad Cool / Recinto Valdebebas - IFEMA;Alejandro de la Sota, 51;;Spain;40.478390199412;-3.620209693909;Madrid
+Lobby Art Gallery;Lobby Art Gallery;Gran Vía, 53;28013;Spain;40.421439720780;-3.708148598671;Madrid
+Jardines del Descubrimiento;Jardines del Descubrimiento;de Goya, 2;28001;Spain;40.425194900000;-3.688768100000;Madrid
+Antiguo vestíbulo de la Estación de Pacífico;Antiguo vestíbulo de la Estación de Pacífico;de la Ciudad de Barcelona, 79;28007;Spain;40.401503209943;-3.674846291542;Madrid
+Fox in a Box (Cuesta de Santo Domingo);Fox in a Box (Cuesta de Santo Domingo);de Santo Domingo, 24;28013;Spain;40.419833704572;-3.708148598671;Madrid
+Fox in a Box (Infantas);Fox in a Box (Infantas);de las Infantas, 25;28004;Spain;40.420180400000;-3.697662200000;Madrid
+Art Room ;Art Room ;de Santa María, 15;28014;Spain;40.413004899921;-3.697520345449;Madrid
+Cava Baja Gallery;Cava Baja Gallery;de la Cava Baja, 27;28005;Spain;40.412239500000;-3.709350200000;Madrid
+Desert City;Desert City;Autovía A1, Km 25;28708;Spain;40.598981362826;-3.581585884094;San Sebastián de los Reyes
+Estadio Wanda Metropolitano;Estadio Wanda Metropolitano;de Luis Aragonés, s/n;28022;Spain;40.436299422388;-3.599481582642;Madrid
+La Morada;La Morada;de la Palma, 11;28004;Spain;40.426102300000;-3.702350500000;Madrid
+Siesta & Go;Siesta & Go;de Orense, 10;28020;Spain;40.448833500000;-3.695009900000;Madrid
+El silo de Hortaleza;El silo de Hortaleza;Mar de las Antillas, 14 (Parque Huerta de la Salud);28033;Spain;40.474921217934;-3.645406365395;Madrid
+Iglesia de San Pedro ad Víncula;Iglesia de San Pedro ad Víncula;de Sierra Gorda, 5;28031;Spain;40.380412525036;-3.620434999466;Madrid
+Iglesia de Santa María la Antigua;Iglesia de Santa María la Antigua;Virgen de la Antigua, 9;28032;Spain;40.401339805000;-3.605039119721;Madrid
+Parque de Moratalaz ;Parque de Moratalaz;de Moratalaz, 183;28030;Spain;40.408841700000;-3.643813500000;Madrid
+La Colonia de la Prensa;La Colonia de la Prensa;Eugenia de Montijo, 61-63;28047;Spain;40.378230353066;-3.747775554657;Madrid
+El Pardo;El Pardo;Manuel Alonso, s/n;28048;Spain;40.520686500000;-3.775665800000;Madrid
+La Corrala de Tribulete;La Corrala de Tribulete;de Tribulete, 12;28012;Spain;40.408125244453;-3.702625930309;Madrid
+Dolmen de Dalí;Dolmen de Dalí;de Salvador Dalí, 15;28009;Spain;40.423927600000;-3.673338600000;Madrid
+Cementerio de La Almudena;Cementerio de la Almudena;de Daroca, 90;28017;Spain;40.425945200000;-3.645082600000;Madrid
+Norman Foster Foundation;Norman Foster Foundation;del Monte Esquinza, 48;28010;Spain;40.431631000000;-3.691457300000;Madrid
+Ermita de San Isidro;Ermita de San Isidro;de la Ermita del Santo, 72;28019;Spain;40.400767884577;-3.726339340210;Madrid
+Rosaleda del Parque del Oeste;Rosaleda del Parque del Oeste;de la Rosaleda, 1;28008;Spain;40.426499493173;-3.721919059753;Madrid
+FeedingArtWorld (Lamiak);FeedingArtWorld (Lamiak);Cava Baja, 42;28005;Spain;40.411894949478;-3.710407018662;Madrid
+Windobona Indoor Skydiving Madrid;Windobona Indoor Skydiving Madrid;Calderilla, 16;28054;Spain;40.364081298972;-3.740115165710;Madrid
+Real Conservatorio Superior de Música;Real Conservatorio Superior de Música;Doctor Mata, 2;28012;Spain;40.409133778988;-3.694404959679;Madrid
+Teamlabs;Teamlabs;del Duque de Alba, 15, 1ª planta.;28012;Spain;40.411578100000;-3.706699200000;Madrid
+Galería éboli;Galería éboli;de Ramales;28013;Spain;40.416986300000;-3.711522000000;Madrid
+La Encina;La Encina;de Ercilla, 15;28005;Spain;40.402936200000;-3.702779600000;Madrid
+Autocine Madrid Race;Autocine Madrid Race;de la Isla de Java, 2;28034;Spain;40.486126800000;-3.677773500000;Madrid
+Auditorio Parque El Paraíso;Auditorio Parque El Paraíso;de Arcentales, 4;28037;Spain;40.429977500000;-3.621828100000;Madrid
+Zero Latency;Zero Latency;de Pradillo, 54;28002;Spain;40.449531000000;-3.669259700000;Madrid
+Sala de Arte Santander;Sala de Arte Santander;de Cantabria, 2;28660;Spain;40.392245694737;-3.864805698395;Boadilla del Monte
+La Casa. B the travel brand Xperience. ;La Casa. B the travel brand Xperience. ;de Miguel Ángel, 33;28010;Spain;40.437856500000;-3.691524400000;Madrid
+La Arena Esports;La Arena Esports;de Monforte de Lemos, 36;28029;Spain;40.479473300000;-3.706682300000;Madrid
+Espacio Que Vuela;Espacio Que Vuela;de Martín de Vargas, 13, local 1;28005;Spain;40.403282500000;-3.702071600000;Madrid
+Diversos locales Recurso turístico Ubicación por determinar;Ubicación por determinar;-;;Spain;40.416947300000;-3.703528500000;Madrid
+Galería Yuri López Kullins;Galería Yuri López Kullins;de Santa Brigida, 23;28004;Spain;40.424602100000;-3.698956000000;Madrid
+Espacio Miró;Espacio Miró;de Recoletos, 23;28004;Spain;40.422676700000;-3.692275400000;Madrid
+Abierto Espacio Cultural;Abierto Espacio Cultural;del General Arrando, 14;28010;Spain;40.431643500000;-3.695801900000;Madrid
+Real Coliseo de Carlos III;Real Coliseo de Carlos III;Floridablanca,  20;28200;Spain;40.590872600000;-4.147148700000;El Escorial
+Capilla del Museo de Historia;Capilla del Museo de Historia;de Fuencarral, 78;28004;Spain;40.425777300000;-3.700831500000;Madrid
+Galería Pilar Serra;Galería Pilar Serra;de Santa Engracia, 6;28010;Spain;40.428651516663;-3.695805072784;Madrid
+C Arte C;C Arte C;Juan de Herrera, 2;28040;Spain;40.439899500000;-3.729123500000;Madrid
+Rent Bull;Rent Bull;del Corazón de María, 11;28002;Spain;40.441152200000;-3.670841400000;Madrid
+Cines Verdi ;Cines Verdi ;de Bravo Murillo, 28;28015;Spain;40.436698300000;-3.704061100000;Madrid
+Puxagallery;Puxagallery;de Santa Teresa, 10;28004;Spain;40.425566383788;-3.695613294840;Madrid
+Museo Eduardo Torroja;Museo Eduardo Torroja;Padre Huidobro , s/n;28023;Spain;40.468500500000;-3.757952000000;Madrid
+La Industrial;La Industrial;de San Andrés, 8;28004;Spain;40.426027200000;-3.703671900000;Madrid
+Auditorio Rafael del Pino;Auditorio Rafael del Pino;Rafael Calvo, 39 A;28010;Spain;40.434217056925;-3.689657449722;Madrid
+Mirat Gallery;Mirat Gallery;Blanca de Navarra, 8;28010;Spain;40.428747800000;-3.692776700000;Madrid
+Teatro Capitol Gran Vía;Teatro Capitol Gran Vía;Gran Vía, 41;28013;Spain;40.420446500000;-3.706582100000;Madrid
+Teatro de las Aguas;Teatro de las Aguas;de las Aguas, 8;28005;Spain;40.410865100000;-3.712238800000;Madrid
+MEEU;MEEU;Agustín de Foxa, s/n;28036;Spain;40.472104422810;-3.682469748270;Madrid
+Micropolix;Micropolix;Salvador de Madariaga;28702;Spain;40.565996556184;-3.609311782954;San Sebastián de los Reyes
+La Maliciosa;La Maliciosa;M-608, km 13;28491;Spain;40.785514500000;-3.983877300000;
+Dark Madrid;Dark Madrid;del Duque de Alba, 3;28012;Spain;40.411875800000;-3.705570900000;Madrid
+Torre de Avenida de América;Torre de Avenida de América;de América, 2;;Spain;40.437427800000;-3.676878400000;Madrid
+Edificio de la Unión y el Fénix;Edificio de la Unión y el Fénix;de la Castellana, 33;28010;Spain;40.432480600000;-3.689457700000;Madrid
+Torre Europa;Torre Europa;de la Castellana, 95;28046;Spain;40.451667000000;-3.691667000000;Madrid
+Torre del Complejo Cuzco;Torre del Complejo Cuzco;de la Castellana, 160;28046;Spain;40.457226300000;-3.689428200000;Madrid
+Teatro Goya;Teatro Goya;Sepúlveda, 3 y 5;28011;Spain;40.407606100483;-3.725266456604;Madrid
+Fundación Diario Madrid;Fundación Diario Madrid;Larra, 14;28004;Spain;40.427922400000;-3.700202700000;Madrid
+Parroquia Virgen de la Paloma;Parroquia Virgen de la Paloma;Virgen de la Paloma, 1;28005;Spain;40.408140800000;-3.712077800000;Madrid
+Madrid en Ruta;Madrid en Ruta;de Oriente, 1;28013;Spain;40.417930000000;-3.711590000000;Madrid
+El Cerro de los ángeles;El Cerro de los ángeles;de Andalucía (A4), km 13,5;28906;Spain;40.309934371174;-3.684926033020;Getafe
+Cooking Point;Cooking Point;de Moratín, 11;28014;Spain;40.412386600000;-3.697495400000;Madrid
+Centro Cultural La Tortuga ;Centro Cultural La Tortuga ;de la Espada, 6;28012;Spain;40.411422900000;-3.704537500000;Madrid
+Ciento y pico;Ciento y pico;de Velarde, 14;28004;Spain;40.426834200000;-3.702687100000;Madrid
+Heliflights Spain: rutas y paseos en helicóptero;Heliflights Spain: rutas y paseos en helicóptero;Comunidad de Madrid, 35 bis. Edificio Burgosol. Oficina 26;28231;Spain;40.489435800000;-3.874936200000;Las Rozas
+Escuela europea de cata;Escuela europea de cata;de San Lucas, 3. Local derecho.;28004;Spain;40.423812100000;-3.696886800000;Madrid
+Cabeza de Hierro Mayor;Cabeza de Hierro Mayor;M-608;28410;Spain;40.797339855413;-3.935379981995;Guadarrama
+Cerro de Valdemartín;Cerro de Valdemartín;M-608, km 2;28410;Spain;40.774817500000;-3.931270900000;Guadarrama
+Puerto de Navacerrada;Puerto de Navacerrada;Dos Castillas, 3;28470;Spain;40.788124600000;-4.002171100000;Cercedilla
+La Bola del Mundo;La Bola del Mundo;de José Salgado;28410;Spain;40.784838918581;-3.979378938675;Navacerrada
+Puerto de los Leones;Puerto de los Leones;de la Coruña, km 57;28480;Spain;40.706433121302;-4.141674041748;Guadarrama
+Monasterio de El Escorial;Monasterio de El Escorial;Don Juan de Borbón y Battenberg, s/n;28200;Spain;40.589941500667;-4.147875308991;El Escorial
+Facultad de Ciencias Biológicas y Geológicas;Facultad de Ciencias Biológicas y Geológicas;José Antonio Novais, 12;28040;Spain;40.448906563665;-3.725749254227;Madrid
+Facultad de Medicina;Facultad de Medicina;de Ramón y Cajal, s/n;28040;Spain;40.443901550309;-3.724751472473;Madrid
+Puente de los Franceses;Puente de los Franceses;de los Franceses;;Spain;40.433669914909;-3.735866546631;Madrid
+Junta Municipal de Distrito de Moncloa;Junta Municipal de Distrito de Moncloa;de Moncloa, 1;28008;Spain;40.435338600000;-3.718571800000;Madrid
+Torres de Colón;Torres de Colón;de Génova, 31;28004;Spain;40.425819200000;-3.691706800000;Madrid
+Torres Blancas;Torres Blancas;de América, 37;28002;Spain;40.439878600000;-3.671945600000;Madrid
+Torre Titania;Torre Titania;de Raimundo Fernández Villaverde, 79,;28003;Spain;40.446800000000;-3.694500000000;Madrid
+Torre Picasso;Torre Picasso;Pablo Ruiz Picasso, s/n;28020;Spain;40.450286346831;-3.692806363106;Madrid
+Torre Cepsa;Torre Cepsa;de la Castellana, 259;28046;Spain;40.475713371387;-3.687779903412;Madrid
+Torre PwC;Torre PwC;de la Castellana, 259;28046;Spain;40.476861217969;-3.687899749239;Madrid
+Torre de Cristal;Torre de Cristal;de la Castellana, 259;28046;Spain;40.476971718281;-3.687640428543;Madrid
+Torre Espacio;Torre Espacio;de la Castellana, 259D;28046;Spain;40.479111800000;-3.686590200000;Madrid
+Lock & Be Free (calle Jardines);Lock & Be Free (calle Jardines);de los Jardines, 11;28013;Spain;40.419052700000;-3.700938000000;Madrid
+La Mano de Botero;La Mano de Botero;San Juan de la Cruz;28003;Spain;40.441207016853;-3.691738843918;Madrid
+Nuevos Ministerios;Nuevos Ministerios;de la Castellana 63;28046;Spain;40.442252600000;-3.692192400000;Madrid
+Monumento a la Constitución de 1978;Monumento a la Constitución de 1978;de José Gutiérrez Abascal, 4;28006;Spain;40.440929583495;-3.690828233957;Madrid
+Consejo Superior de Investigaciones Científicas - CSIC;Consejo Superior de Investigaciones Científicas - CSIC;de Serrano, 117;28006;Spain;40.441109031783;-3.686159849167;Madrid
+Monumento a Emilio Castelar;Monumento a Emilio Castelar;de la Castellana, 39;28046;Spain;40.434610200000;-3.689162800000;Madrid
+Ermita de Santa María La Antigua;Ermita de Santa María La Antigua;de Monseñor Óscar Romero, 92;28047;Spain;40.382497500000;-3.752510500000;Madrid
+Monasterio de Santa María de El Paular;Monasterio de Santa María de El Paular;M-604, km 27,6;28740;Spain;40.888600811930;-3.887786865234;Rascafría
+Madrid Fly;Madrid Fly;Nuestra Señora del Retamar, 16;28232;Spain;40.505495229686;-3.888258934021;Las Rozas
+Archivo Regional de la Comunidad de Madrid;Archivo Regional de la Comunidad de Madrid;de Ramirez de Prado, 3;28045;Spain;40.399730245120;-3.690639138222;Madrid
+Museo EMT;Museo EMT;de Mauricio Legendre, 38 - 40;28046;Spain;40.476366266112;-3.683037757874;Madrid
+The Robot Museum;The Robot Museum;Serrano, 61;28006;Spain;40.429578458125;-3.706869184971;Madrid
+Punto de Información Turística Paseo del Prado;Punto de Información Turística Paseo del Prado;de Cánovas del Castillo;28014;Spain;40.415523300000;-3.694064100000;Madrid
+Punto de Información Turística Estadio Santiago Bernabéu;Punto de Información Turística Estadio Santiago Bernabéu;de la Castellana, 138 - Junto al Santiago Bernabéu;28012;Spain;40.451363200000;-3.690487800000;Madrid
+Punto de Información Turística Plaza de Callao;Punto de Información Turística Plaza de Callao;de Callao, s/n;28012;Spain;40.419910900000;-3.705911300000;Madrid
+Sala Berlanga;Sala Berlanga;de Andrés Mellado, 53;28015;Spain;40.435964615037;-3.714467883110;Madrid
+Madrid International Lab;Madrid International Lab;de Bailén, 41;28005;Spain;40.412012200000;-3.713722400000;Madrid
+Parque de San Isidro;Parque de San Isidro;de la Ermita del Santo, 74;28019;Spain;40.399260700000;-3.728484700000;Madrid
+Espacio Mood Serrano;Espacio Mood Serrano;del General Oraá, 23;28006;Spain;40.436299800000;-3.684654800000;Madrid
+Aventura Amazonia Pelayos;Aventura Amazonia Pelayos;de la Enfermería s/n;28696;Spain;40.366983282423;-4.322819709778;Pelayos de la Presa
+Aventura Amazonia Cercedilla;Aventura Amazonia Cercedilla;de las Dehesas, M-966,  Km 3,9;28470;Spain;40.770093000000;-4.066684900000;Cercedilla
+La Nave (antigua Fábrica Boetticher);La Nave (antigua Fábrica Boetticher);Cifuentes, 5;28021;Spain;40.347819706087;-3.696362972260;Madrid
+Cubierta de Leganés;Cubierta de Leganés;del Maestro, 4;28914;Spain;40.325951535387;-3.758590221405;Leganés
+Espacio de Arte ROR;Espacio de Arte ROR;de Fernández de la Hoz, 59;28003;Spain;40.440299900000;-3.694498400000;Madrid
+Marta Moriarty;Marta Moriarty;del Doctor Fourquet, 39;28012;Spain;40.406945600000;-3.699488200000;Madrid
+Theatre for the people;Theatre for the people;de Carlos Cambronero, 5, local bajo izquierda;28004;Spain;40.423160000000;-3.703890000000;Madrid
+Réplika Teatro;Réplika Teatro;Explanada, 14;28040;Spain;40.448220743741;-3.711807131767;Madrid
+Teatro Lara - Sala Lola Membrives;Teatro Lara - Sala Lola Membrives;Baja de San Pablo, 15;28004;Spain;40.422098900000;-3.704451100000;Madrid
+La Infinito;La Infinito;de los Tres Peces, 22;28012;Spain;40.410718606671;-3.699363023043;Madrid
+La corseteria - NTF;La corseteria - NTF;de la Cabeza, 8, local derecha;28012;Spain;40.411764100000;-3.703473900000;Madrid
+La Belloch;La Belloch;de las Peñuelas, 61;28005;Spain;40.399403000000;-3.701188600000;Madrid
+Estudio 2 Manuel Galiana;Estudio 2 Manuel Galiana;Moratines, 11;28005;Spain;40.403136000000;-3.702563200000;Madrid
+El Foro del Arte;El Foro del Arte;Ribera de Curtidores, 37,;28005;Spain;40.406542000000;-3.706880800000;Madrid
+Sojo Laboratorio Teatral;Sojo Laboratorio Teatral;de San Isidoro de Sevilla, 2;28005;Spain;40.404499400000;-3.712157200000;Madrid
+Café Teatro Serendipia;Café Teatro Serendipia;Germán Perez Carrasco, 21;28027;Spain;40.435192900000;-3.645845300000;Madrid
+Bululú 2120;Bululú 2120;de Canarias, 16;28045;Spain;40.401962800000;-3.696499100000;Madrid
+Arte & Desmayo;Arte & Desmayo;Baleares, 14;28019;Spain;40.394818400000;-3.713560200000;Madrid
+Bowling Chamartín;Bowling Chamartín;Agustín de Foxa, s/n;28036;Spain;40.471172934692;-3.682900111717;Madrid
+Madrid Segway;Madrid Segway;de la Escalinata, 10;28013;Spain;40.417524000000;-3.709272900000;Madrid
+Centro cultural Pilar Miró;Centro cultural Pilar Miró;Antonio María Segovia, s/n;28031;Spain;40.381070431931;-3.613471984863;Madrid
+Teatro Tarambana;Teatro Tarambana;Dolores Armengot , 31;28025;Spain;40.385821300000;-3.743251100000;Madrid
+Teatro de las Letras;Teatro de las Letras;de San José, 3;28014;Spain;40.413004400000;-3.697009000000;Madrid
+El Montacargas;El Montacargas;de Antillón, 19;28011;Spain;40.411799500000;-3.727900200000;Madrid
+MINIMA espacio escénico;MINIMA espacio escénico;de Mallorca, 4, local 3;28012;Spain;40.407053300000;-3.698011400000;Madrid
+Galería Cayón ;Galería Cayón;Blanca de Navarra, 7 y  9;28010;Spain;40.428912858280;-3.692701756954;Madrid
+La Juan Gallery;La Juan Gallery;Provisiones, 26;28012;Spain;40.406879300000;-3.703105000000;Madrid
+Campus tecnológico de Google;Campus tecnológico de Google;Moreno Nieto, 2;28005;Spain;40.412497100000;-3.718226400000;Madrid
+Iglesia del Santísimo Cristo de la Fe;Iglesia del Santísimo Cristo de la Fe;de Atocha, 87;28012;Spain;40.411388700000;-3.696977000000;Madrid
+Fundación Botín;Fundación Botín;de Castelló, 18 C;28001;Spain;40.424114900000;-3.681502100000;Madrid
+Segwayfun;Segwayfun;de las Huertas, 39;28014;Spain;40.413587400000;-3.698261700000;Madrid
+Biblioteca Musical Victor Espinós;Biblioteca Musical Victor Espinós;del Conde Duque, 9;28015;Spain;40.427953239548;-3.710144162178;Madrid
+Artistic Metropol;Artistic Metropol;de las Cigarreras, 6;28005;Spain;40.404845800000;-3.707451800000;Madrid
+NF Galería;NF Galería;Blanca de Navarra, 12;28010;Spain;40.428787291927;-3.692536801100;Madrid
+Museo Arqueológico Regional de Alcalá de Henares;Museo Arqueológico Regional de Alcalá de Henares;de las Bernardas s/n;28801;Spain;40.482796939890;-3.369154930115;Alcalá de Henares
+AZarte;AZarte;de San Marcos, 19;28004;Spain;40.421416700000;-3.698351900000;Madrid
+Instituto Confucio de Madrid;Instituto Confucio de Madrid;de Goya, 10;28001;Spain;40.425160058588;-3.686159849167;Madrid
+Centro Cultural de China en Madrid;Centro Cultural de China en Madrid;del General Pardiñas, 73;28006;Spain;40.434114978529;-3.678097128868;Madrid
+Parque Cerro del Tío Pío;Parque Cerro del Tío Pío;de Benjamín Palencia, 2;28038;Spain;40.396147100000;-3.653471300000;Madrid
+Nave 16. Centro de Residencias Artísticas (Matadero);Nave 16. Centro de Residencias Artísticas (Matadero);de Legazpi, 8;28045;Spain;40.391581700000;-3.696359800000;Madrid
+Gabinete de Historia Natural;Gabinete de Historia Natural;de la Victoria, 9, 1ª planta;28012;Spain;40.415878700000;-3.701614800000;Madrid
+Monumento homenaje a las víctimas del 11-M;Monumento homenaje a las víctimas del 11-M;de la Ciudad de Barcelona, 2;28007;Spain;40.406895350536;-3.688895702362;Madrid
+Real Casa de Postas;Real Casa de Postas;de Pontejos, 3;28012;Spain;40.415884900000;-3.704381500000;Madrid
+Parque de Berlín;Parque de Berlín;de Ramón y Cajal, 2;28016;Spain;40.451509700000;-3.676053300000;Madrid
+Fundación Francisco Giner de los Ríos;Fundación Francisco Giner de los Ríos;del General Martínez Campos, 14;28010;Spain;40.434889700000;-3.696794800000;Madrid
+Gran Teatro Bankia Príncipe Pío;Gran Teatro Bankia Príncipe Pío;de San Vicente, 44;28008;Spain;40.420888390866;-3.718807697296;Madrid
+Nuev9 Norte;Nuev9 Norte;del Norte, 9;28015;Spain;40.426072755476;-3.707569241524;Madrid
+El umbral de primavera;El umbral de primavera;de la Primavera, 11;28012;Spain;40.409528968249;-3.700366169214;Madrid
+Mirador Madrid;Mirador Madrid;de Cibeles, 1;28014;Spain;40.418933900000;-3.692152100000;Madrid
+Focus On Women;Focus On Women;del Príncipe de Vergara, 9, planta baja;28001;Spain;40.423817900000;-3.680507900000;Madrid
+Freijo Gallery;Freijo Gallery;de Zurbano, 46;28010;Spain;40.433530600000;-3.693172700000;Madrid
+Fundación conservatorio flamenco Casa Patas;Fundación Conservatorio Flamenco Casa Patas;de los Cañizares, 10;28012;Spain;40.412713100000;-3.701733500000;Madrid
+Aerocenter;Aerocenter;de la Fortuna, s/n, Aeropuerto de Cuatro Vientos, sector B;28054;Spain;40.368528231097;-3.780670166016;Madrid
+Accessible Madrid;Accessible Madrid;del Alcalde Sainz de Baranda 16;28009;Spain;40.416788400000;-3.676739100000;Madrid
+Galeria Herrero de Tejada;Galeria Herrero de Tejada;de Hermosilla, 49;28001;Spain;40.426410100000;-3.681867300000;Madrid
+Fundación Pons;Fundación Pons;Serrano, 138;28006;Spain;40.441020000000;-3.685818500000;Madrid
+Museo Casa Natal de Cervantes ;Museo Casa Natal de Cervantes ;Mayor, 48;28801;Spain;40.482297800000;-3.367162600000;Alcalá de Henares
+"Espacio Andrea D&rsquo;Odorico";"Espacio Andrea D&rsquo;Odorico";del Príncipe, 25;28014;Spain;40.414862300000;-3.700165100000;Madrid
+Cine Proyecciones;Cine Proyecciones;de Fuencarral, 136;28010;Spain;40.431460000000;-3.703250000000;Madrid
+Edificio Metrópolis;Edificio Metrópolis;de Alcalá, 39;28014;Spain;40.418710500000;-3.697552400000;Madrid
+Bernal Espacio Galería & Proyectos;Bernal Espacio Galería & Proyectos;de Orense, 32, 5º - 2;28020;Spain;40.453902700000;-3.694440200000;Madrid
+Teseo Teatro;Teseo Teatro;de Segovia 61;28005;Spain;40.408501400000;-3.715897300000;Madrid
+Quinta de Torre Arias;Quinta de Torre Arias;de Alcalá 551;28027;Spain;40.443409300000;-3.618207200000;Madrid
+Teatros Luchana;Teatros Luchana;de Luchana, 38;28010;Spain;40.431920000000;-3.698253300000;Madrid
+Plaza y Calle Matadero (Matadero);Plaza y Calle Matadero (Matadero);de la Chopera, 14;28045;Spain;40.392224844685;-3.698003754420;Madrid
+Extensión AVAM (Matadero) ;Extensión AVAM (Matadero) ;de la Chopera, 14;28045;Spain;40.391665525631;-3.697591423988;Madrid
+Palacio de Santa Bárbara;Palacio de Santa Bárbara;de Hortaleza, 87;28004;Spain;40.426266500000;-3.697005800000;Madrid
+Parque de la Bombilla;Parque de la Bombilla;de Valladolid, 4;28008;Spain;40.431432302720;-3.730094432831;Madrid
+La Academia de las Artes y las Ciencias Cinematográficas de España;La Academia de las Artes y las Ciencias Cinematográficas de España;de Zurbano, 3;28010;Spain;40.427471200000;-3.693890700000;Madrid
+Teatro Auditorio San Lorenzo de El Escorial ;Teatro Auditorio San Lorenzo de El Escorial ;Felipe II, s/n;28200;Spain;40.590635037940;-4.144012928009;El Escorial
+Auditorio Sony ;Auditorio Sony ;Requena, 1;28013;Spain;40.417006491983;-3.712311387062;Madrid
+Mondo Galería;Mondo Galería;de Belén, 2;28004;Spain;40.423879100000;-3.696440100000;Madrid
+Alliance Française de Madrid;Alliance Française de Madrid;de Santo Domingo, 13;28013;Spain;40.420160500000;-3.708833600000;Madrid
+Cine Paz;Cine Paz;de Fuencarral, 125;28010;Spain;40.430886600000;-3.703327900000;Madrid
+Biblioteca Histórica UCM Marqués de Valdecilla;Biblioteca Histórica UCM Marqués de Valdecilla;del Noviciado, 3;28015;Spain;40.425570900000;-3.707941100000;Madrid
+Escenario Puente del Rey;Escenario Puente del Rey;del Rey;28008;Spain;40.418876000000;-3.721767300000;Madrid
+Fundación Manuel Benedito;Fundación Manuel Benedito;de Juan Bravo, 4;28006;Spain;40.432707200000;-3.685976200000;Madrid
+Torre de Madrid;Torre de Madrid;de España, 18;28008;Spain;40.424312200000;-3.712375300000;Madrid
+Edificio España;Edificio España;de la Princesa, 19;28008;Spain;40.424065622725;-3.711040019989;Madrid
+Cuartel General del Ejército del Aire;Cuartel General del Ejército del Aire;de la Princesa, 87;28008;Spain;40.433203200000;-3.718282700000;Madrid
+Arco de la Victoria;Arco de la Victoria;de la Memoria,  2;28040;Spain;40.435931950816;-3.720213174820;Madrid
+Cementerio Sacramental de San Isidro;Cementerio Sacramental de San Isidro;Ermita del Santo, 72;28019;Spain;40.399360500000;-3.731777800000;Madrid
+Instituto del Patrimonio Cultural de España;Instituto del Patrimonio Cultural de España;Pintor El Greco, 4;28040;Spain;40.441133528064;-3.734868764877;Madrid
+Ciudad del BBVA;Ciudad del BBVA;Olmeda, 8;28050;Spain;40.501670100000;-3.664193700000;Madrid
+Espacio Cultural Daoíz y Velarde;Espacio Cultural Daoíz y Velarde;Daoíz y Velarde, 4;28007;Spain;40.401707465564;-3.677142262459;Madrid
+Estudio Público de Humanidades;Estudio Público de Humanidades;de la Villa, 2;;Spain;40.414246300000;-3.712514800000;Madrid
+Estatua de Miguel de Cervantes;Estatua de Miguel de Cervantes;de las Cortes, s/n;28014;Spain;40.415758764136;-3.696706295013;Madrid
+Imprenta Juan de la Cuesta;Imprenta Juan de la Cuesta;de San Eugenio, 7;28012;Spain;40.410820700000;-3.697753100000;Madrid
+Parque Forestal de Valdebebas-Felipe VI;Parque Forestal de Valdebebas-Felipe VI;de las Fuerzas Armadas, 11;28055;Spain;40.485431300000;-3.637600100000;Madrid
+Palacio de los Duques de Pastrana;Palacio de los Duques de Pastrana;de la Habana, 208;28036;Spain;40.467086879566;-3.678723511746;Madrid
+Torrespaña (El Pirulí);Torrespaña (El Pirulí);de O'Donnell, 62;28007;Spain;40.420512667151;-3.664203286171;Madrid
+Cámara Oscura;Cámara Oscura;de la Alameda, 16, 1º B;28014;Spain;40.411269400000;-3.693865100000;Madrid
+Galería Antonio de Suñer;Galería Antonio de Suñer;del Barquillo, 43;28004;Spain;40.423982800000;-3.695595300000;Madrid
+La Factoría de Papel;La Factoría de Papel;Buenavista, 8 Bajo;28012;Spain;40.410450000000;-3.698477200000;Madrid
+La Fiambrera Art Gallery;La Fiambrera Art Gallery;del Pez, 7;28004;Spain;40.423251930789;-3.704766333103;Madrid
+Faro de Moncloa;Faro de Moncloa;de la Memoria, 2;28040;Spain;40.437271170868;-3.721683025360;Madrid
+Puente Monumental Parque de Arganzuela ;Puente Monumental Parque de Arganzuela ;de las Yeserías, 19;28005;Spain;40.399367500000;-3.710148300000;Madrid
+Estatua de Colón;Estatua de Colón;de Colón, s/n;28001;Spain;40.425204979083;-3.690467476845;Madrid
+Viaducto ;Viaducto ;de Bailén, 12;28005;Spain;40.414165886452;-3.713614940643;Madrid
+Centro de Arte Dos de Mayo (CA2M) / Móstoles;Centro de Arte Dos de Mayo (CA2M) / Móstoles;de la Constitución , 23;28931;Spain;40.324548800000;-3.863287900000;Móstoles
+Biblioteca Pública Municipal Iván de Vargas;Biblioteca Pública Municipal Iván de Vargas;de San Justo, 5;28005;Spain;40.414002512250;-3.709752559662;Madrid
+Biblioteca Pública Municipal Mario Vargas Llosa;Biblioteca Pública Municipal Mario Vargas Llosa;Barceló, 4;28004;Spain;40.426515827576;-3.699275851250;Madrid
+Biblioteca Pública Benito Pérez Galdós;Biblioteca Pública Benito Pérez Galdós;del Conde Duque, 9;28015;Spain;40.427810316437;-3.711141943932;Madrid
+Biblioteca Pública Municipal Eugenio Trías;Biblioteca Pública Municipal Eugenio Trías;Fernán Nuñez, 24;28009;Spain;40.416698135862;-3.679078817368;Madrid
+Galería Machado/Muñoz;Galería Machado/Muñoz;José Marañón, 4;28010;Spain;40.428974110075;-3.697865009308;Madrid
+Espacio Sin Título de Cano Estudio;Espacio Sin Título de Cano Estudio;de la Alameda, 3;28014;Spain;40.412268500000;-3.693816500000;Madrid
+Centro Cultural Lázaro Carreter ;Centro Cultural Lázaro Carreter ;de la Verdad, 29;28019;Spain;40.391547800000;-3.717139700000;Madrid
+Winebus;Winebus;Gran Vía, 4;28013;Spain;40.419302800000;-3.697646800000;Madrid
+La Usina;La Usina;de Palos de la Frontera, 4;28012;Spain;40.402663373631;-3.700096607208;Madrid
+garAJE;garAJE;de Matilde Díez, 11;28002;Spain;40.446024439988;-3.673671483994;Madrid
+Teatro Lagrada;Teatro Lagrada;de Ercilla, 20;28005;Spain;40.402647033436;-3.702821731567;Madrid
+Casa de las Alhajas;Casa de las Alhajas;de San Martín, 1;28013;Spain;40.418217439765;-3.707043528557;Madrid
+Centro Cultural de los Ejércitos;Centro Cultural de los Ejércitos;Gran Vía , 13;28013;Spain;40.419687701198;-3.699812293053;Madrid
+Cines Callao / Callao City Lights;Cines Callao / Callao City Lights;de Callao, 3 y 4;28013;Spain;40.419867397614;-3.705804347992;Madrid
+Palacio de Neptuno;Palacio de Neptuno;de Cervantes, 42;28014;Spain;40.414581100000;-3.695172300000;Madrid
+Imprenta Municipal-Artes del Libro;Imprenta Municipal-Artes del Libro;de Concepción Jerónima, 15;28012;Spain;40.413897200000;-3.705472200000;Madrid
+Sala Mayko;Sala Mayko;del General Palanca, 7;28045;Spain;40.399580200000;-3.698976300000;Madrid
+Centro Cultural La Vaguada;Centro Cultural La Vaguada;Monforte de Lemos, 38;28029;Spain;40.479500072415;-3.709141016007;Madrid
+Auditorio y Sala de Exposiciones Paco de Lucía;Auditorio y Sala de Exposiciones Paco de Lucía;de Las Aguilas, 2;28044;Spain;40.385132149605;-3.764367699623;Madrid
+Centro Cultural Casa del Reloj;Centro Cultural Casa del Reloj;de la Chopera, 6;28045;Spain;40.394427412692;-3.700536489487;Madrid
+Centro Cultural Paco Rabal - Palomeras Bajas;Centro Cultural Paco Rabal - Palomeras Bajas;Felipe de Diego, 13;28018;Spain;40.379439955248;-3.661204576492;Madrid
+Colegio Cardenal Spínola  ;Colegio Cardenal Spínola  ;Cardenal Marcelo Spínola, 34,;28016;Spain;40.466845900000;-3.672398500000;Madrid
+Ciudad del Rock de Arganda del Rey;Ciudad del Rock de Arganda del Rey;Autovía A3, km 33;28500;Spain;40.259649513099;-3.405804634094;Arganda del Rey
+Auditorio de la Universidad Carlos III;Auditorio de la Universidad Carlos III;de la Universidad, 30;28911;Spain;40.332478380637;-3.764705657959;Leganés
+Quinta del Sordo;Quinta del Sordo;del Rosario, 17;28005;Spain;40.409399281073;-3.714449107647;Madrid
+Off Latina;Off Latina;de los Mancebos, 4;28005;Spain;40.412045800000;-3.711972800000;Madrid
+Espacio Ronda;Espacio Ronda;Ronda de Segovia, 50;28005;Spain;40.406952537591;-3.713250160217;Madrid
+Nave 73;Nave 73;de Palos de la Frontera, 5;28012;Spain;40.403158600000;-3.698736500000;Madrid
+Jardín Botánico de la Universidad Complutense;Jardín Botánico de la Universidad Complutense;Complutense, s/n;28040;Spain;40.447948250846;-3.727530241013;Madrid
+Escenario Puerta del ángel;Escenario Puerta del ángel;Herradura, 3;28011;Spain;40.416926850471;-3.727669715881;Madrid
+Teatro Auditorio (Casa de Campo);Teatro Auditorio (Casa de Campo);de Portugal, s/n;28011;Spain;40.413806462683;-3.741080760956;Madrid
+Pabellón de Convenciones (Casa de Campo);Pabellón de Convenciones (Casa de Campo);de Portugal, s/n;28011;Spain;40.411690724771;-3.739943504334;Madrid
+Madrid & You;Madrid & You;del Conde de Lemos, 8;28013;Spain;40.416717200000;-3.710521300000;Madrid
+Plaza de Colón;Plaza de Colón;de Colón;28004;Spain;40.425268879397;-3.690661510209;Madrid
+Parque Juan Carlos I;Parque Juan Carlos I;S.A.R Don Juan de Borbón y Battemberg, 5;28042;Spain;40.461295300000;-3.609640100000;Madrid
+The Magic Forest;The Magic Forest;Edgar Neville, s/n  (Ciudad de la imagen);28223;Spain;40.393846000000;-3.796441000000;Pozuelo de Alarcón
+Pequeño Teatro Gran Vía;Pequeño Teatro Gran Vía;Gran Vía, 66;28013;Spain;40.422413725918;-3.708939850330;Madrid
+Auditorio Marcelino Camacho ;Auditorio Marcelino Camacho ;de Lope de Vega , 40;28014;Spain;40.413732943949;-3.694501519203;Madrid
+Galería de Cristal (Palacio de Cibeles)		;Galería de Cristal (Palacio de Cibeles)		;de Cibeles, 1;28014;Spain;40.418933900000;-3.692152100000;Madrid
+Teatro Tribueñe ;Teatro Tribueñe ;de Sancho Dávila , 31;28028;Spain;40.425558216472;-3.661563992500;Madrid
+Campus de la Universidad Complutense;Campus de la Universidad Complutense;Complutense;28040;Spain;40.443673653017;-3.727155459765;Madrid
+Pabellón Satélite Madrid Arena (Casa de Campo);Pabellón Satélite Madrid Arena (Casa de Campo);Principal,  18;28011;Spain;40.414741200000;-3.738811100000;Madrid
+Pabellón de Cristal (Casa de Campo);Pabellón de Cristal (Casa de Campo);Principal, 16;28011;Spain;40.414780100000;-3.737961200000;Madrid
+Casino Gran Vía;Casino Gran Vía;Gran Vía, 24;28013;Spain;40.420110395413;-3.700832873583;Madrid
+Parque Dehesa de la Villa;Parque Dehesa de la Villa;Dehesa de la Villa, 1;28040;Spain;40.457766004288;-3.721332664055;Madrid
+Basílica de Nuestra Señora de Atocha;Basílica de Nuestra Señora de Atocha;Ciudad de Barcelona, 1;28007;Spain;40.405245000000;-3.683177000000;Madrid
+Forestal Park;Forestal Park;Area Recreativa Embalse de las Encinillas I, San Macario, 64;28440;Spain;40.678398400000;-4.112257700000;Guadarrama
+De pino a pino;De Pino a Pino;de la Barranca, s/n;28491;Spain;40.735176800000;-4.005854800000;Navacerrada
+Aquópolis de Villanueva de la Cañada;Aquópolis de Villanueva de la Cañada;de la Dehesa, s/n;28691;Spain;40.456874624943;-3.990440368652;Villanueva de la Cañada
+ Hipódromo de la Zarzuela; Hipódromo de la Zarzuela;Padre Huidobro , s/n;28023;Spain;40.468563758773;-3.758010864258;Madrid
+Museo de la Selección Española de Fútbol;Museo de la Selección Española de Fútbol;Ramón y Cajal, s/n;28232;Spain;40.522991004742;-3.898805379868;Las Rozas
+Galería Moisés Pérez de Albéniz;Galería Moisés Pérez de Albéniz;del Doctor Fourquet , 20;28012;Spain;40.407448300000;-3.697894700000;Madrid
+Fundación Mapfre. Sala Bárbara de Braganza;Fundación Mapfre. Sala Bárbara de Braganza;Bárbara de Braganza, 13;28004;Spain;40.423399968322;-3.691883683205;Madrid
+Tabacalera Promoción del Arte;Tabacalera Promoción del Arte;de Embajadores, 51;28012;Spain;40.406519000000;-3.703276000000;Madrid
+Galería Marita Segovia ;Galería Marita Segovia ;de Lagasca, 7;28001;Spain;40.421561000000;-3.685894900000;Madrid
+Galería Marta Cervera;Galería Marta Cervera;de Valencia, 28;28012;Spain;40.406482785342;-3.699868619442;Madrid
+Galería Maisterravalbuena;Galería Maisterravalbuena;del Doctor Fourquet , 6;28012;Spain;40.408698761768;-3.695767521858;Madrid
+La Fresh Gallery;La Fresh Gallery;Conde de Aranda , 5;28001;Spain;40.421860362045;-3.687538504601;Madrid
+Galería Leandro Navarro;Galería Leandro Navarro;Amor de Dios, 1;28014;Spain;40.413386600000;-3.698134000000;Madrid
+Javier López & Fer Francés;Javier López & Fer Francés;Guecho, 12 B;28023;Spain;40.472340000000;-3.813980000000;Madrid
+Instituto Iberoamericano de Finlandia;Instituto Iberoamericano de Finlandia;de Augusto Figueroa, 24;28004;Spain;40.422047300000;-3.697553800000;Madrid
+Instituto de México en España;Instituto de México en España;de San Jerónimo, 46;28014;Spain;40.416045000000;-3.697390400000;Madrid
+Galería Inés Barrenechea;Galería Inés Barrenechea;General Arrando , 34;28010;Spain;40.431665200000;-3.693879200000;Madrid
+Galería Heinrich Ehrhardt;Galería Heinrich Ehrhardt;San Lorenzo, 11;28004;Spain;40.425252000000;-3.698520000000;Madrid
+Galería Guillermo de Osma;Galería Guillermo de Osma;de Claudio Coello, 4, 1º izq.;28001;Spain;40.420867971153;-3.687117397785;Madrid
+Roca Madrid Gallery;Roca Madrid Gallery;de José Abascal, 57;28003;Spain;40.438275600000;-3.693182200000;Madrid
+Galería Gaudí;Galería Gaudí;García de Paredes, 76;28010;Spain;40.436601564176;-3.694174289703;Madrid
+Fundación Loewe;Fundación Loewe;Gran Vía, 8;28013;Spain;40.419552500000;-3.698379500000;Madrid
+Formato Cómodo;Formato Cómodo;de Lope de Vega, 5;28014;Spain;40.413915719543;-3.698428273201;Madrid
+Galería Fernández-Braso;Galería Fernández-Braso;de Villanueva, 30;28001;Spain;40.422193197687;-3.685006499291;Madrid
+Espacio Valverde;Espacio Valverde;de Valverde, 30;28004;Spain;40.422566870096;-3.701587915421;Madrid
+Galería Elvira González;Galería Elvira González;Hermanos Alvárez Quintero , 1;28004;Spain;40.427287623619;-3.697569966316;Madrid
+Galería Elba Benítez;Galería Elba Benítez;San Lorenzo, 11;28004;Spain;40.425041631686;-3.698699176312;Madrid
+Centro Persépolis;Centro Persépolis;de Santa María, 20;28014;Spain;40.412942612479;-3.697757720947;Madrid
+Centro Cultural Coreano en España;Centro Cultural Coreano en España;de la Castellana, 15;28046;Spain;40.428316671232;-3.690209984779;Madrid
+Galería Casado Santapau;Galería Casado Santapau;Piamonte, 10;28004;Spain;40.423071222461;-3.695294111967;Madrid
+Blanca Soto Arte;Blanca Soto Arte;de Almadén, 13;28014;Spain;40.411146973468;-3.694343268871;Madrid
+Blanca Berlín Galería;Blanca Berlín Galería;del Limón, 28;28015;Spain;40.427085487416;-3.710162937641;Madrid
+Benveniste Contemporary;Benveniste Contemporary;Nicolás Morales, 37;28019;Spain;40.390765640773;-3.732382357121;Madrid
+Galería BAT Alberto Cornejo;Galería BAT Alberto Cornejo;María de Guzmán , 61;28003;Spain;40.444055300000;-3.696243200000;Madrid
+Astarté Iniciativas Artísticas;Astarté Iniciativas Artísticas;del Monte Esquinza, 8;28010;Spain;40.427103863460;-3.692133128643;Madrid
+Espacio Artkunstarte;Espacio Artkunstarte;de Juan de Mena, 12;28014;Spain;40.417238779187;-3.689868673682;Madrid
+álvaro Alcázar Galería de Arte;Galería de arte álvaro Alcázar;Ferrer del Río, 5;28001;Spain;40.426430071914;-3.681468665600;Madrid
+Sala Alcalá 31 de la Comunidad de Madrid;Sala Alcalá 31 de la Comunidad de Madrid;de Alcalá, 31;28014;Spain;40.418500200000;-3.698366500000;Madrid
+Olivar de Castillejo ;Olivar de Castillejo ;Menéndez Pidal, 3;28036;Spain;40.459072400000;-3.682977600000;Madrid
+La Neomudéjar;La Neomudéjar;Antonio Nebrija, s/n;28007;Spain;40.404150314755;-3.684067726135;Madrid
+La Fábrica Galería;La Fábrica Galería;de la Alameda, 9;28014;Spain;40.411733100000;-3.693751500000;Madrid
+Galería Michel Soskine;Galería Michel Soskine;General Castaños, 9;28004;Spain;40.425510200000;-3.693961600000;Madrid
+"Intermedi&aelig; (Matadero)";"Intermedi&aelig; (Matadero)";de la Chopera, 14;28045;Spain;40.392695118074;-3.697865009308;Madrid
+Casa del Lector (Matadero);Casa del Lector (Matadero);de la Chopera, 14;28045;Spain;40.391663482773;-3.697588741779;Madrid
+Naves del Español en Matadero;Naves del Español en Matadero ;de la Chopera, 14;28045;Spain;40.391820782642;-3.697409033775;Madrid
+Cineteca (Matadero);Cineteca Madrid;de Legazpi, 8;28045;Spain;40.391530696884;-3.696389794350;Madrid
+Central de diseño (Matadero);Central de diseño (Matadero);de la Chopera, 14;28045;Spain;40.392306979915;-3.697430491447;Madrid
+Nave 0 (Matadero);Nave 0 (Matadero);de Legazpi , 8;28045;Spain;40.391973600000;-3.697861400000;Madrid
+Apetit'Oh!;Apetit'Oh!;de Seco, 14;28007;Spain;40.398101000000;-3.673030600000;Madrid
+Le Cordon Bleu;Le Cordon Bleu;Pozuelo - Majadahonda (M 515),  Km. 1,800;28223;Spain;40.439884206358;-3.833327293396;Pozuelo de Alarcón
+Sueños de cocina;Sueños de cocina;Luis de Salazar, 8;28002;Spain;40.447379788330;-3.666941821575;Madrid
+Utopía Parkway;Utopía Parkway;de la Reina, 11;28004;Spain;40.420413630931;-3.700195848942;Madrid
+Travesía Cuatro;Travesía Cuatro;de San Mateo, 16;28004;Spain;40.425565362874;-3.699172586203;Madrid
+The Goma;The Goma;de Fúcar, 12;28014;Spain;40.411547767108;-3.695687055588;Madrid
+Teatro del Barrio;Teatro del Barrio;de Zurita, 20;28012;Spain;40.409623935866;-3.699216842651;Madrid
+Galería Sabrina Amrani;Galería Sabrina Amrani;de la Madera, 23;28004;Spain;40.423489811632;-3.704441785812;Madrid
+Galería Rafael Pérez Hernando;Galería Rafael Pérez Hernando;de Orellana, 18;28004;Spain;40.425923702916;-3.694069013000;Madrid
+Ponce + Robles;Ponce + Robles;de la Alameda, 5;28014;Spain;40.412052600000;-3.693785800000;Madrid
+Parra & Romero;Parra & Romero;de Claudio Coello, 14;28001;Spain;40.422054600000;-3.686891400000;Madrid
+Nogueras Blanchard;Nogueras Blanchard;Doctor Fourquet, 4;28012;Spain;40.408937500000;-3.695609800000;Madrid
+Palacio de Gaviria;Palacio de Gaviria;del Arenal, 9;28013;Spain;40.416959523924;-3.706115484238;Madrid
+Devour Tours Madrid;Devour Tours Madrid;--;;Spain;40.411928600000;-3.696549800000;Madrid
+Gourmet Madrid;Gourmet Madrid;de Menéndez Pelayo, 53;28009;Spain;40.416241000000;-3.677822600000;Madrid
+Segway Trip;Segway Trip;de San Miguel, 2;28005;Spain;40.415589700000;-3.709240600000;Madrid
+Madrid Original;Madrid Original;de Juan Bravo, 3;28006;Spain;40.433582126783;-3.685270696878;Madrid
+De Madrid al Cielo;De Madrid al Cielo;Mayor;;Spain;40.415364000000;-3.707398000000;Madrid
+Aularte;Aularte;del Hospital, 2, local 3;28012;Spain;40.408525162562;-3.695326298475;Madrid
+Trapsatur;Trapsatur;de San Bernardo, 7;28013;Spain;40.421134300000;-3.708240300000;Madrid
+Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina;Biblioteca Regional de la Comunidad de Madrid Joaquín Leguina;de Ramírez de Prado, 3;28045;Spain;40.399620100000;-3.690606500000;Madrid
+Galería de Arte Lucía Mendoza;Galería de Arte Lucía Mendoza;Bárbara de Braganza, 10;28004;Spain;40.423353700000;-3.692687600000;Madrid
+GoCar Tours;GoCar Tours;de Ferraz, 26;28008;Spain;40.425260108740;-3.716326653957;Madrid
+Antociano;Antociano;de Antonia Mercé, 2;28009;Spain;40.423560000000;-3.672840000000;Madrid
+Arquirutas;Arquirutas;,;;Spain;40.416775400000;-3.703790200000;Madrid
+APIT Madrid;APIT Madrid;Gran Vía, 69, 7ª;28013;Spain;40.422839900000;-3.710512800000;Madrid
+Explora lo Desconocido;Explora lo Desconocido;Tomás Bretón, 49B, 1ºC;28045;Spain;40.397543800000;-3.691786700000;Madrid
+Carpetania Madrid;Carpetania Madrid;Jesús del Valle, 11;28004;Spain;40.424349442690;-3.704476654530;Madrid
+Casino Gran Madrid Torrelodones;Casino Gran Madrid Torrelodones;Autovía A6 (Madrid-Coruña) salida 27;28250;Spain;40.566152179861;-3.913943767548;Torrelodones
+Galería Fernando Pradilla;Galería Fernando Pradilla;de Claudio Coello , 20;28001;Spain;40.422843000000;-3.686782700000;Madrid
+Galería Jorge Alcolea;Galería Jorge Alcolea;de Claudio Coello, 28;28001;Spain;40.423708200000;-3.686694800000;Madrid
+David Bardía Galería de Arte;David Bardía Galería de Arte;de Villanueva, 40;28001;Spain;40.422169700000;-3.682809200000;Madrid
+Librerías de la Cuesta de Moyano;Librerías de la Cuesta de Moyano;Claudio Moyano, s/n;28014;Spain;40.409555700000;-3.691410100000;Madrid
+Instituto Francés;Instituto Francés;del Marqués de la Ensenada, 12;28004;Spain;40.424747605372;-3.692186772823;Madrid
+Gran Casino Aranjuez;Gran Casino Aranjuez;de la Unesco , 1 (Aranjuez);28300;Spain;40.055614000000;-3.604527400000;Aranjuez
+Casino Gran Madrid Colón;Casino Gran Madrid Colón;de Recoletos, 37-41;28004;Spain;40.424496500000;-3.691380200000;Madrid
+Instituto Alemán de Cultura-Goethe Institut;Instituto Alemán de Cultura-Goethe Institut;de Zurbarán, 21;28010;Spain;40.429562124465;-3.691443800926;Madrid
+Campo de Fútbol de Vallecas;Estadio de Vallecas;del Payaso Fofó, s/n;28018;Spain;40.392239566217;-3.658685982227;Madrid
+Coliseum Alfonso Pérez;Coliseum Alfonso Pérez;Teresa de Calcuta, s/n;28903;Spain;40.325730691238;-3.714945316315;Getafe
+Centro Sefarad - Israel;Centro Sefarad - Israel;Mayor, 69;28013;Spain;40.415305200000;-3.711209600000;Madrid
+Casa árabe;Casa árabe;de Alcalá, 62;28009;Spain;40.421734400000;-3.681848400000;Madrid
+Punto de Inf. Turística Aeropuerto Adolfo Suárez Madrid-Barajas (T2. Entre Salas 5 y 6);Punto de Inf. Turística Aeropuerto Adolfo Suárez Madrid-Barajas (T2. Entre Salas 5 y 6);Hispanidad, s/n;28042;Spain;40.467945477403;-3.568625450134;Madrid
+Calle Fuencarral;Calle Fuencarral;Fuencarral, s/n;28013;Spain;40.420246700000;-3.701490000000;Madrid
+Parroquia de Guadalupe;Parroquia de Guadalupe;de Puerto Rico, 1;28016;Spain;40.452430200000;-3.674707700000;Madrid
+Andén 0. Nave de Motores de Pacífico;Andén 0. Nave de Motores de Pacífico;de Valderribas, 49;28007;Spain;40.404052275692;-3.674368858337;Madrid
+Punto de Información Turística CentroCentro;Punto de Información Turística CentroCentro;de Cibeles, 1 (Palacio de Cibeles),;28014;Spain;40.419055700000;-3.692078100000;Madrid
+Jardín Botánico del Parque de Pradolongo (Usera);Jardín Botánico del Parque de Pradolongo (Usera);Rafaela Ybarra , 85;28026;Spain;40.375583000000;-3.711954200000;Madrid
+Museo Arqueológico Caños del Peral;Museo Arqueológico Caños del Peral;de Isabel II;28013;Spain;40.418152094066;-3.709355592728;Madrid
+Castillo de la Alameda;Castillo de la Alameda;Antonio Sancha, 1;28042;Spain;40.458735880164;-3.592486381531;Madrid
+Museo Félix Cañada;Museo Félix Cañada;de Alenza, 1;28003;Spain;40.442557600000;-3.700816900000;Madrid
+Real Monasterio de Santa Isabel;Real Monasterio de Santa Isabel;de Santa Isabel, 48 bis;28012;Spain;40.408911400000;-3.694696100000;Madrid
+Parque de Santander;Parque de Santander;de Pablo Iglesias, 9;28003;Spain;40.442799254223;-3.706877231598;Madrid
+IFEMA - Feria de Madrid;IFEMA - Feria de Madrid;del Partenón, 5;28042;Spain;40.465157240748;-3.616549993517;Madrid
+Iglesia de Santa Bárbara (Convento de las Salesas Reales);Iglesia de Santa Bárbara (Convento de las Salesas Reales);de Bárbara de Braganza, 1;28004;Spain;40.423758100000;-3.693433500000;Madrid
+Centro Cultural Casa de Vacas;Centro Cultural Casa de Vacas;de Colombia, 1;28009;Spain;40.418682600000;-3.685053000000;Madrid
+Lago de la Casa de Campo;Lago de la Casa de Campo;del Embarcadero, 8;28011;Spain;40.418756143825;-3.732354069878;Madrid
+Recinto Ferial Casa de Campo;Recinto Ferial Casa de Campo;de Portugal, s/n;28011;Spain;40.411621271075;-3.737126066185;Madrid
+Estanque Grande de El Retiro;Estanque Grande de El Retiro;del Estanque;28009;Spain;40.417114722604;-3.684003353119;Madrid
+Complejo AZCA;Complejo AZCA;de Pablo Ruiz Picasso, s/n;28020;Spain;40.450316000000;-3.692996000000;Madrid
+Plaza de Pedro Zerolo;Plaza de Pedro Zerolo;de Pedro Zerolo, s/n;28004;Spain;40.420974200000;-3.699021800000;Madrid
+Plaza Dos de Mayo;Plaza Dos de Mayo;del Dos de Mayo,;28004;Spain;40.427004700000;-3.704010100000;Madrid
+Ivorypress Art + Books ;Ivorypress Art + Books ;del Aviador Zorita, 46 - 48;28020;Spain;40.451886533249;-3.698025941849;Madrid
+Puerta de San Vicente;Puerta de San Vicente;de San Vicente, s/n;28008;Spain;40.420243124933;-3.720417022705;Madrid
+Puerta de Hierro;Puerta de Hierro;de Circunvalación M-30, Paseo del Marqués de Monistrol;28040;Spain;40.455568450139;-3.744363784790;Madrid
+Huerto de las Monjas;Huerto de las Monjas;del Sacramento, 7;28005;Spain;40.414699700000;-3.711752900000;Madrid
+Jardín El Almendro;Jardín El Almendro;del Almendro, 3;28005;Spain;40.412867500000;-3.708907100000;Madrid
+Edificio Mirador;Edificio Mirador;Princesa de Éboli,  13-21;28050;Spain;40.487452500000;-3.655246300000;Madrid
+Parque Lineal del Manzanares;Parque Lineal del Manzanares;de Perales, s/n;28021;Spain;40.377964283086;-3.687077777740;Madrid
+Casa de Bambú;Casa de Bambú;Clarinetes, 9-21;28054;Spain;40.371426300000;-3.764514200000;Madrid
+Las Fuentecillas o Cuatro Fuentes;Las Fuentecillas o Cuatro Fuentes;del Prado (confluencia con Plaza de Murillo), s/n;28014;Spain;40.412762700000;-3.692276000000;Madrid
+Fuente de Apolo (Fuente de las Cuatro Estaciones);Fuente de Apolo (Fuente de las Cuatro Estaciones);del Prado, s/n;28014;Spain;40.417257668441;-3.693857789040;Madrid
+Fuente de la Alcachofa;Fuente de la Alcachofa;de Honduras (Parque del Retiro), s/n;28001;Spain;40.415413465947;-3.684229049125;Madrid
+Fuente de los Galápagos o Fuente de Isabel II;Fuente de los Galápagos o Fuente de Isabel II;de Nicaragua (Parque del Retiro), s/n;28001;Spain;40.418629933021;-3.685489296913;Madrid
+Escultura ecuestre de Felipe IV ;Escultura ecuestre de Felipe IV ;de Oriente, s/n;28013;Spain;40.418299614334;-3.712172497634;Madrid
+Monumento a Cervantes - Plaza de España;Monumento a Cervantes - Plaza de España;de España, s/n;28008;Spain;40.422764000000;-3.712035000000;Madrid
+Fuente de la Cruz Verde (Diana Cazadora);Fuente de la Cruz Verde (Diana Cazadora);de la Cruz Verde, s/n;28005;Spain;40.414041600000;-3.711937400000;Madrid
+Fuente de Orfeo;Fuente de Orfeo;de la Provincia, s/n;28012;Spain;40.414913700000;-3.706133900000;Madrid
+Fuente de la Fama o Fuente de Antón Martín;Fuente de la Fama o Fuente de Antón Martín;Barceló (Jardines del Arquitecto Ribera), 2;28004;Spain;40.426535700000;-3.700042600000;Madrid
+Obelisco de la Fuente  Castellana;Obelisco de la Fuente Castellana;de Yeserías, 36;28005;Spain;40.397417967386;-3.709033727646;Madrid
+CentroCentro;Viaje virtual por el palacio de Cibeles (CentroCentro);de Cibeles, 1;28014;Spain;40.419001583194;-3.692200183868;Madrid
+Casa - Museo Fuente del Rey (Aravaca);Casa - Museo Fuente del Rey (Aravaca);de la Fuente del Rey, 11;28023;Spain;40.455470486005;-3.770574331284;Madrid
+Microteatro por dinero;Microteatro por dinero;de Loreto y Chicote, 9;28004;Spain;40.421536900000;-3.704061600000;Madrid
+Real Academia de Ciencias Exactas, Físicas y Naturales;Real Academia de Ciencias Exactas, Físicas y Naturales;de Valverde, 22;28004;Spain;40.422026780072;-3.701642900705;Madrid
+Auditorio Nacional de Música;Auditorio Nacional de Música;del Príncipe de Vergara, 146;28002;Spain;40.445966200000;-3.677694700000;Madrid
+ CaixaForum Madrid;"Cabeza Patata en&nbsp;#CaixaForumencasa";del Prado, 36;28014;Spain;40.411127061365;-3.693573474884;Madrid
+Fundación Juan March;Fundación Juan March;de Castelló, 77;28006;Spain;40.431236303945;-3.681406974793;Madrid
+Auditorio 400 Museo Nacional Centro Arte Reina Sofía;Auditorio 400, Museo Nacional Centro Arte Reina Sofía;de Atocha, 2;28012;Spain;40.407916540633;-3.694560527802;Madrid
+WiZink Center;WiZink Center;de Felipe II, s/n;28009;Spain;40.423859700000;-3.671842100000;Madrid
+Palacio Vistalegre Arena;Palacio Vistalegre Arena;de Utebo , 1;28025;Spain;40.385994313696;-3.738548755646;Madrid
+Teatro Español;El Español en abierto: Las de Caín;del Príncipe, 25;28012;Spain;40.414945992798;-3.700187802315;Madrid
+Fernán Gómez Centro Cultural de la Villa;La música de los festivales del Fernán Gómez;de Colón , 4;28001;Spain;40.424637345173;-3.689861297607;Madrid
+Teatro EDP Gran Vía;Teatro EDP Gran Vía;de Gran Vía, 66;28013;Spain;40.422412800000;-3.708937800000;Madrid
+Teatro Infanta Isabel;Teatro Infanta Isabel;del Barquillo, 24;28004;Spain;40.422252413672;-3.695547580719;Madrid
+Teatro Victoria;Teatro Victoria;del Pez, 17;28004;Spain;40.423747089538;-3.705525398254;Madrid
+Pabellón Multiusos Madrid Arena (Casa de Campo);Pabellón Multiusos Madrid Arena (Casa de Campo);de Portugal, s/n;28011;Spain;40.413014089867;-3.738216161728;Madrid
+Hospital Universitario Santa Cristina;Hospital Universitario Santa Cristina;Maestro Vives, 2;28009;Spain;40.421811355431;-3.671557903290;Madrid
+Iglesia de la Buena Dicha;Iglesia de la Buena Dicha;de Silva, 25;28004;Spain;40.421891100000;-3.705691400000;Madrid
+Basílica Parroquia la Milagrosa;Basílica Parroquia la Milagrosa;de García de Paredes, 45;28010;Spain;40.436915953514;-3.694893121719;Madrid
+Iglesia de Nuestra Señora de los ángeles;Iglesia de Nuestra Señora de los ángeles;de Bravo Murillo, 93;28003;Spain;40.445846100000;-3.704304700000;Madrid
+Iglesia del Colegio Divina Pastora;Iglesia del Colegio Divina Pastora;de Santa Engracia, 140;28003;Spain;40.443635300000;-3.702226300000;Madrid
+Iglesia Concepción de Nuestra Señora;Iglesia Concepción de Nuestra Señora;de Goya, 26;28001;Spain;40.425107200000;-3.682631400000;Madrid
+Fundación Ortega y Gasset - Gregorio Marañón;Fundación Ortega y Gasset - Gregorio Marañón;de Fortuny, 53;28010;Spain;40.434890770456;-3.690719604492;Madrid
+"Estación de servicio &quot;Petróleos Porto Pi&quot;";"Estación de servicio &quot;Petróleos Porto Pi&quot;";de Alberto Aguilera, 18;28015;Spain;40.430125633431;-3.708722591400;Madrid
+Edificio Capitol;Edificio Capitol;Gran Vía, 41;28013;Spain;40.420447323682;-3.706582188606;Madrid
+Sede Cuatrecasas Abogados;Sede Cuatrecasas Abogados;Almagro, 9;28010;Spain;40.429774700000;-3.693678400000;Madrid
+Museo Naval;Museo Naval;del Prado, 5;28014;Spain;40.417593845221;-3.692674934864;Madrid
+Consejo General del Poder Judicial;Consejo General del Poder Judicial;del Marqués de la Ensenada, 8;28004;Spain;40.424080900000;-3.692237800000;Madrid
+Colegio Mixto La Salle-San Rafael;Colegio Mixto La Salle-San Rafael;de Fernando el Católico, 49;28015;Spain;40.434171400000;-3.712795400000;Madrid
+Colegio de San Diego y San Vicente;Colegio de San Diego y San Vicente;de Eduardo Dato, 4;28010;Spain;40.432241000000;-3.694460900000;Madrid
+Iglesia parroquial de San Manuel y San Benito ;Iglesia parroquial de San Manuel y San Benito ;de Alcalá, 83;28009;Spain;40.420916978454;-3.686154484749;Madrid
+Instituto Católico de Artes e Industrias ICAI-ICADE;Instituto Católico de Artes e Industrias ICAI-ICADE;de Alberto Aguilera, 25;28015;Spain;40.430039882371;-3.712719082832;Madrid
+Palacio Arzobispal;Palacio Arzobispal;de la Pasa, 1;28005;Spain;40.414101400000;-3.708891900000;Madrid
+Iglesia de Ntra. Sra. del Carmen y San Luis Obispo;Iglesia de Ntra. Sra. del Carmen y San Luis Obispo;del Carmen, 10;28013;Spain;40.418250112590;-3.704071640968;Madrid
+Depósito elevado de Plaza de Castilla;Depósito elevado de Plaza de Castilla;de Castilla, 9;28036;Spain;40.465563000000;-3.688282700000;Madrid
+Iglesia y convento de las Trinitarias descalzas (Monasterio de San Ildefonso y San Juan de la Mata);Iglesia y convento de las Trinitarias descalzas (Monasterio de San Ildefonso y San Juan de la Mata);de Lope de Vega, 18;28014;Spain;40.413692100173;-3.697561919689;Madrid
+Viviendas para D. Enrique Pérez Villaamil;Viviendas para D. Enrique Pérez Villaamil;de Matute, 12;28012;Spain;40.413372900000;-3.699918000000;Madrid
+Seminario Conciliar de Madrid;Seminario Conciliar de Madrid;San Buenaventura, 9;28005;Spain;40.411609034715;-3.715138435364;Madrid
+Real Academia de Medicina;Real Academia de Medicina;de Arrieta, 12;28012;Spain;40.419257700000;-3.710839900000;Madrid
+Parque Norte del Servicio de Limpiezas;Parque Norte del Servicio de Limpiezas;de Santa Engracia, 116;28003;Spain;40.440206745885;-3.700761795044;Madrid
+Instituto Nacional de Estadística;Instituto Nacional de Estadística;de la Castellana, 183;28046;Spain;40.463923448764;-3.690172433853;Madrid
+Instituto Internacional en España;Instituto Internacional en España;de Miguel Ángel , 8;28010;Spain;40.434286470147;-3.690971732140;Madrid
+La Casa Encendida;La Casa Encendida;de Valencia, 2;28012;Spain;40.406078387302;-3.699924945831;Madrid
+Oratorio del Santo Cristo del Olivar;Oratorio del Santo Cristo del Olivar;de los Cañizares, 4;28012;Spain;40.413095778217;-3.701689839363;Madrid
+"Parque de Bomberos n&ordm; 1";"Parque de Bomberos n&ordm; 1";de Santa Engracia, 118;28003;Spain;40.440206745885;-3.700761795044;Madrid
+Primer depósito elevado del Canal de Isabel II;Primer depósito elevado del Canal de Isabel II;de Santa Engracia, 125;28003;Spain;40.439514800000;-3.700776900000;Madrid
+Palacio López-Dóriga;Palacio López-Dóriga;de Recoletos, 15;28004;Spain;40.421511189141;-3.692672252655;Madrid
+Palacio del Marqués de Linares;Palacio del Marqués de Linares;de Cibeles, 2;28014;Spain;40.419763255431;-3.692227005959;Madrid
+Palacio del Marqués de Alcañices;Palacio del Marqués de Alcañices;de Recoletos, 13;28004;Spain;40.421370000000;-3.692720000000;Madrid
+Palacio del Duque de Granada de Ega;Palacio del Duque de Granada de Ega;de Santo Domingo, 5;28013;Spain;40.419685659190;-3.709653317928;Madrid
+Palacio de Zabálburu y viviendas;Palacio de Zabálburu y viviendas;Marqués del Duero, 7;28001;Spain;40.420477953441;-3.690805435181;Madrid
+Palacio de la Infanta Isabel de Borbón;Palacio de la Infanta Isabel de Borbón;de Quintana, 7;28008;Spain;40.428208458632;-3.716345429421;Madrid
+Palacio de Fernán Núñez;Palacio de Fernán Núñez;de Santa Isabel, 44;28012;Spain;40.409809786082;-3.696942329407;Madrid
+Casas del Cordero;Casas del Cordero;Mayor, 1;28013;Spain;40.416463000000;-3.704673200000;Madrid
+Real Academia de Farmacia;Real Academia de Farmacia;de la Farmacia, 9;28004;Spain;40.423983947692;-3.699678182602;Madrid
+Real Academia Española;Real Academia Española;de Felipe IV, 4;28014;Spain;40.414974582911;-3.690998554230;Madrid
+Casa-palacio del Marqués de Portazgo;Casa-palacio del Marqués de Portazgo;de Serrano, 9;28001;Spain;40.422116955740;-3.688577067981;Madrid
+Casa Gallardo;Casa Gallardo;de Ferraz, 2;28008;Spain;40.423167191916;-3.714253306389;Madrid
+Casa de las Flores;Casa de las Flores;Hilarión Eslava, 2;28015;Spain;40.432288900000;-3.716711600000;Madrid
+Banco Mercantil e Industrial;Banco Mercantil e Industrial;de Alcalá, 31;28014;Spain;40.418500200000;-3.698366500000;Madrid
+Antigua Fábrica Osram;Antigua Fábrica Osram;de Palos de la Frontera, 13;28012;Spain;40.403553908249;-3.697527050972;Madrid
+Antigua casa comercial Palazuelo;Antigua casa comercial Palazuelo;Mayor, 4;28013;Spain;40.416716600000;-3.705067800000;Madrid
+Tribunal de Cuentas del Reino;Tribunal de Cuentas del Reino;de Fuencarral, 81;28004;Spain;40.425793026427;-3.701282143593;Madrid
+Real Compañía Asturiana de Minas;Real Compañía Asturiana de Minas;de España, 8;28008;Spain;40.422297336108;-3.712501823902;Madrid
+Colegio de Nuestra Señora del Pilar;Colegio de Nuestra Señora del Pilar;de Castelló, 56;28001;Spain;40.428308504249;-3.681128025055;Madrid
+Colegio de Nuestra Señora de Loreto;Colegio de Nuestra Señora de Loreto;del Príncipe de Vergara, 42;28001;Spain;40.428059410805;-3.679357767105;Madrid
+Centro Superior de Estudios de la Defensa Nacional;Centro Superior de Estudios de la Defensa Nacional;de la Castellana, 61;28046;Spain;40.439937282589;-3.691948056221;Madrid
+Casas Salabert;Casas Salabert;de la Independecia, 8;28001;Spain;40.419320000000;-3.689020000000;Madrid
+Casa Palacio del Conde de Gamazo;Casa Palacio del Conde de Gamazo;de Génova, 26;28004;Spain;40.425773300000;-3.692339700000;Madrid
+Bolsa de Comercio de Madrid;Bolsa de Comercio de Madrid;de la Lealtad, 1;28014;Spain;40.416902900000;-3.692887500000;Madrid
+Asilo de las Hermanitas de los Pobres;Asilo de las Hermanitas de los Pobres;de Zurbarán, 4;28010;Spain;40.429541707385;-3.694496154785;Madrid
+Escuelas Pías de San Fernando;Escuelas Pías de San Fernando (Sede UNED);del Tribulete, 14;28012;Spain;40.407700049627;-3.702966570854;Madrid
+Real Academia de Jurisprudencia y Legislación;Real Academia de Jurisprudencia y Legislación;del Marqués de Cubas, 13;28014;Spain;40.417517012255;-3.695507347584;Madrid
+Embajada de Francia;Embajada de Francia;de Salustiano Olozaga, 9;28001;Spain;40.420299800000;-3.689742100000;Madrid
+ Estación de Atocha; Estación de Atocha;del Emperador Carlos V, s/n;28045;Spain;40.407554004566;-3.691784838387;Madrid
+Frontón Beti-Jai;Frontón Beti-Jai;del Marqués de Riscal, 7;28010;Spain;40.430770804566;-3.691245317459;Madrid
+Instituto Homeopático y Hospital de San José;Instituto Homeopático y Hospital de San José;Eloy Gonzalo, 3;28010;Spain;40.433968800000;-3.703370500000;Madrid
+Instituto de Enseñanza Secundaria Cervantes;Instituto de Enseñanza Secundaria Cervantes;de Embajadores, 70;28012;Spain;40.405941800000;-3.703275100000;Madrid
+Instituto Cardenal Cisneros;Instituto Cardenal Cisneros;de los Reyes, 4;28015;Spain;40.424490331294;-3.708379268646;Madrid
+Iglesia y convento de San Pascual;Iglesia y convento de San Pascual;de Recoletos, 11;28004;Spain;40.421145200000;-3.692874900000;Madrid
+Iglesia de Santiago;Iglesia de Santiago;de Santiago, 24;28013;Spain;40.416766546117;-3.710985034704;Madrid
+Iglesia de San Fermín de los Navarros;Iglesia de San Fermín de los Navarros;de Eduardo Dato, 10;28010;Spain;40.432714447281;-3.692532777786;Madrid
+Hospital del Niño Jesús;Hospital del Niño Jesús;de Menéndez Pelayo, 65;28009;Spain;40.414361934971;-3.676106929779;Madrid
+Hospital de la Cruz Roja San José y Santa Adela;Hospital de la Cruz Roja San José y Santa Adela;de la Reina Victoria, 22;28003;Spain;40.447249900000;-3.707650000000;Madrid
+Fundación Carlos de Amberes;Fundación Carlos de Amberes;de Claudio Coello, 99;28006;Spain;40.431217929031;-3.685958683491;Madrid
+Espacio COAM ;Espacio COAM;de Hortaleza, 63;28004;Spain;40.424184051345;-3.698503375053;Madrid
+Universidad Central;Universidad Central;de San Bernardo, 49;28015;Spain;40.424902900000;-3.707450200000;Madrid
+Salón de Reinos del Palacio del Buen Retiro;Salón de Reinos del Palacio del Buen Retiro;de Méndez Nuñez, 8;28014;Spain;40.415620700000;-3.689527900000;Madrid
+Palacio del duque de Uceda o de los Consejos;Palacio del duque de Uceda o de los Consejos;Mayor, 79;28013;Spain;40.414935782041;-3.713089227676;Madrid
+Palacio de Abrantes (Instituto Italiano di Cultura);Palacio de Abrantes (Instituto Italiano di Cultura);Mayor, 86;28013;Spain;40.415209429810;-3.712799549103;Madrid
+Instituto de San Isidro;Instituto de San Isidro;de Toledo, 39;28005;Spain;40.412613815515;-3.707413673401;Madrid
+Iglesia y Convento de las Recogidas de Santa María Magdalena ;Iglesia y Convento de las Recogidas de Santa María Magdalena ;de Hortaleza, 88;28004;Spain;40.424086041467;-3.698267340660;Madrid
+Monasterio de las Mercedarias Descalzas ;Monasterio de las Mercedarias Descalzas ;Luis de Góngora, 15;28004;Spain;40.423175359522;-3.696727752686;Madrid
+Capilla y comedor del Ave María;Capilla y comedor del Ave María;del Doctor Cortezo, 4;28012;Spain;40.413864664958;-3.703836947680;Madrid
+Convento e iglesia de las Reparadoras ;Convento e iglesia de las Reparadoras ;de Torija, 12;28013;Spain;40.420818963816;-3.710723519325;Madrid
+Ermita de la Virgen del Puerto;Ermita de la Virgen del Puerto;de la Virgen del Puerto, 4;28005;Spain;40.412349200000;-3.721723500000;Madrid
+Palacio del Marqués de Grimaldi o de Godoy;Palacio del Marqués de Grimaldi o de Godoy;de la Marina Española, 9;28013;Spain;40.420639269942;-3.712466955185;Madrid
+Palacio del Duque del Infantado;Palacio del Duque del Infantado;de Don Pedro, 1;28005;Spain;40.411496710726;-3.711791038513;Madrid
+Palacio de Parcent;Palacio de Parcent;de San Bernardo, 62;28015;Spain;40.425921661098;-3.706987202168;Madrid
+Palacio de Lezcano o de O'Reilly;Palacio de Lezcano o de O'Reilly;del Sacramento, 3;28005;Spain;40.414471400000;-3.711122000000;Madrid
+Palacio de Buenavista;Palacio de Buenavista;de Cibeles, s/n;28014;Spain;40.419818389548;-3.694463968277;Madrid
+Palacio de Altamira;Palacio de Altamira;de Flor Alta, 8;28004;Spain;40.421694400000;-3.707221200000;Madrid
+Palacio Bauer;Palacio Bauer;de San Bernardo, 44;28015;Spain;40.424490331294;-3.707301020622;Madrid
+Iglesia de San Marcos;Iglesia de San Marcos;San Leonardo, 10;28015;Spain;40.424976292616;-3.711276054382;Madrid
+Capilla de San Isidro en la Iglesia de San Andrés;Capilla de San Isidro en la Iglesia de San Andrés;de San Andrés, 1;28005;Spain;40.412017484005;-3.711415529251;Madrid
+Real Monasterio de Agustinas Recoletas de la Visitación de Santa Isabel;Real Monasterio de Agustinas Recoletas de la Visitación de Santa Isabel;de Santa Isabel, 48 bis;28012;Spain;40.409450500000;-3.696187300000;Madrid
+Iglesia Parroquial de San Jerónimo el Real;Iglesia Parroquial de San Jerónimo el Real;de Moreto, 4;28014;Spain;40.414504886656;-3.690891265869;Madrid
+Sociedad Cervantina;Sociedad Cervantina;de Atocha, 87;28012;Spain;40.411451900000;-3.697106000000;Madrid
+Casa de la Panadería;Casa de la Panadería;Mayor, 27;28012;Spain;40.415893544363;-3.707413673401;Madrid
+Casa de Cisneros;Casa de Cisneros;de la Villa, 4;28005;Spain;40.414868391001;-3.710439205170;Madrid
+Capilla del Obispo en la Iglesia de San Andrés;Capilla del Obispo en la Iglesia de San Andrés;de la Paja, 1;28005;Spain;40.412503535429;-3.711592555046;Madrid
+Capilla del Cristo de los Dolores;Capilla del Cristo de los Dolores;San Buenaventura, 1;28005;Spain;40.410747500000;-3.714488300000;Madrid
+Casa de la Carnicería;Casa de la Carnicería;Mayor, 3;28012;Spain;40.415513708485;-3.707402944565;Madrid
+Iglesia Monasterio de las Benedictinas de San Plácido;Iglesia Monasterio de las Benedictinas de San Plácido;de San Roque, 9;28004;Spain;40.422822109620;-3.704506158829;Madrid
+Iglesia de San Martín de Tours;Iglesia de San Martín de Tours;del Desengaño, 28;28004;Spain;40.421202853667;-3.704648315907;Madrid
+Parroquia San Millán y San Cayetano;Parroquia San Millán y San Cayetano;de Embajadores, 15;28012;Spain;40.409523862460;-3.705667555332;Madrid
+Iglesia de Nuestra Señora de Montserrat;Iglesia de Nuestra Señora de Montserrat;de San Bernardo, 79;28015;Spain;40.427651058899;-3.706495016813;Madrid
+Monasterio Jerónimo del Corpus Christi (Convento de las Carboneras);Monasterio Jerónimo del Corpus Christi (Convento de las Carboneras);del Conde de Miranda, 3;28005;Spain;40.414831632224;-3.709800839424;Madrid
+Convento Madres Mercedarias de Don Juan de Alarcón ;Convento Madres Mercedarias de Don Juan de Alarcón ;de la Puebla, 1;28004;Spain;40.421878739516;-3.701921179891;Madrid
+Casa de la Villa;Casa de la Villa;de la Villa, 5;28005;Spain;40.415195134805;-3.710777163506;Madrid
+Galería My name's Lolita Art;Galería My name's Lolita Art;de Almadén, 12;28014;Spain;40.411039200000;-3.694774400000;Madrid
+Galería Tiempos Modernos;Galería Tiempos Modernos;de Arrieta, 17;28013;Spain;40.419256700000;-3.711183800000;Madrid
+Palacio de Liria;Palacio de Liria;de la Princesa, 20;28008;Spain;40.427716395371;-3.712477684021;Madrid
+Real Observatorio de Madrid;Real Observatorio de Madrid;de Alfonso XII, 3;28014;Spain;40.408447553361;-3.687629699707;Madrid
+Palacio de Cristal;Palacio de Cristal;República de Cuba, 4;28009;Spain;40.413569800000;-3.682002600000;Madrid
+Parroquia de Santa Cruz ;Parroquia de Santa Cruz ;de Atocha, 6;28012;Spain;40.414543400000;-3.705201000000;Madrid
+Iglesia del Sacramento ;Iglesia del Sacramento;del Sacramento, 11;28005;Spain;40.414774451864;-3.712247014046;Madrid
+Muralla árabe;Muralla árabe;de la Vega, s/n;28013;Spain;40.414892896842;-3.714542984963;Madrid
+Torre y casa de los Lujanes;Torre y casa de los Lujanes;de la Villa, 2 - 3;28005;Spain;40.415123659733;-3.710203170776;Madrid
+Sala de Exposiciones Arqueria Nuevos Ministerios;Sala de Exposiciones Arqueria Nuevos Ministerios;de la Castellana, 67;28046;Spain;40.443587193638;-3.692060709000;Madrid
+Sala Canal de Isabel II de la Comunidad de Madrid;Sala Canal de Isabel II de la Comunidad de Madrid;de Santa Engracia, 125;28003;Spain;40.439480009071;-3.701346516609;Madrid
+Galería de Arte Espacio Mínimo;Galería de Arte Espacio Mínimo;del Doctor Fourquet, 17;28012;Spain;40.407534617351;-3.697085827589;Madrid
+Galería Gráfica La Caja Negra;Galería Gráfica La Caja Negra;Fernando VI, 17,  2º I;28004;Spain;40.425044100000;-3.695844500000;Madrid
+Galería de Arte Helga de Alvear;Galería de Arte Helga de Alvear;del Doctor Fourquet, 12;28012;Spain;40.408280080568;-3.696105480194;Madrid
+Galería de Arte Juana de Aizpuru;Galería de Arte Juana de Aizpuru;del Barquillo, 44;28004;Spain;40.424300437890;-3.695463091135;Madrid
+Galería de Arte Kreisler;Galería de Arte Kreisler;de Hermosilla, 8;28001;Spain;40.426405570276;-3.688324391842;Madrid
+Galería Marlborough;Galería Marlborough;de Orfila, 5;28010;Spain;40.427426464295;-3.692924380302;Madrid
+Galería Max Estrella;Galería Max Estrella;de Santo Tomé, 6, patio;28004;Spain;40.423534733242;-3.695020526648;Madrid
+Biblioteca Nacional;Biblioteca Nacional;de Recoletos, 20 - 22;28071;Spain;40.423755257075;-3.690097332001;Madrid
+Teatro Galileo;Teatro Galileo;de Galileo, 39;28015;Spain;40.433694413901;-3.710460662842;Madrid
+Teatros del Canal;"Concierto solidario Noa en&nbsp;#LaCuartaSalaCanal";de Cea Bermúdez, 1;28003;Spain;40.438572000000;-3.705035600000;Madrid
+Fundación BBVA. Palacio del Marqués de Salamanca;Fundación BBVA. Palacio del Marqués de Salamanca;de Recoletos, 10;28001;Spain;40.421353958645;-3.690885901451;Madrid
+Complejo El águila;Complejo El águila;de Ramírez de Prado, 3;28045;Spain;40.399869142668;-3.690864443779;Madrid
+Filmoteca Española;Filmoteca Española;Magdalena, 10;28012;Spain;40.412287059178;-3.702210187912;Madrid
+Real Sociedad Fotográfica;Real Sociedad Fotográfica;de los Tres Peces, 2;28012;Spain;40.410703200000;-3.700558100000;Madrid
+Palacio de Velázquez ;Palacio de Velázquez ;de Venezuela, 2;28009;Spain;40.415246900000;-3.681839500000;Madrid
+Palacio del Senado;Palacio del Senado;de Bailén, 3;28013;Spain;40.420452700000;-3.712696000000;Madrid
+Convento de las Comendadoras de Santiago;Convento de las Comendadoras de Santiago;de las Comendadoras, 10;28015;Spain;40.427398800000;-3.708921100000;Madrid
+Museo de Bomberos;Museo de Bomberos;Boada, 4;28038;Spain;40.394916800000;-3.653553700000;Madrid
+Museo de Artes y Tradiciones Populares;Museo de Artes y Tradiciones Populares;de Carlos Arniches, 3 y 5;28005;Spain;40.409526300000;-3.708941600000;Madrid
+Museo de Astronomía y Geodesia;Museo de Astronomía y Geodesia;de Ciencias, 3;28040;Spain;40.449437252850;-3.726210594177;Madrid
+Museo Africano Mundo Negro;Museo Africano Mundo Negro;de Arturo Soria, 101;28043;Spain;40.449298457622;-3.651752471924;Madrid
+Museo Postal y Telegráfico;Museo Postal y Telegráfico;Tapia de Casariego, 6;28023;Spain;40.467686400000;-3.769168800000;Madrid
+Calcografía Nacional;Calcografía Nacional;de Alcalá, 13;28014;Spain;40.417965100000;-3.700759600000;Madrid
+Museo de la Guardia Civil;Museo de la Guardia Civil;de Guzmán El Bueno, 110;28003;Spain;40.444562919284;-3.712284564972;Madrid
+Museo del Reloj de Grassy;Museo del Reloj de Grassy;Gran Vía, 1;28013;Spain;40.419068970094;-3.697730898857;Madrid
+Museo de Historia de la Comunidad Judía de Madrid;Museo de Historia de la Comunidad Judía de Madrid;de Balmes, 3;28010;Spain;40.435338400000;-3.700057100000;Madrid
+"Museo histórico-minero &quot;Don Felipe de Borbón y Grecia&quot;";"Museo histórico-minero &quot;Don Felipe de Borbón y Grecia&quot;";de Rios Rosas, 21;28003;Spain;40.442274636589;-3.700523078442;Madrid
+Madrid Río;Madrid Río;de Segovia, s/n;28005;Spain;40.398953600000;-3.714245000000;Madrid
+Museo del INEF;Museo del INEF;de Martín Fierro, 7;28040;Spain;40.438218800000;-3.732555600000;Madrid
+Museo Calasancio de los Padres Escolapios;Museo Calasancio de los Padres Escolapios;de Gaztambide, 65;28015;Spain;40.437638635120;-3.715479075909;Madrid
+Teatro Muñoz Seca;Teatro Muñoz Seca;del Carmen, 1;28013;Spain;40.418374677591;-3.703189194202;Madrid
+Teatro Marquina;Teatro Marquina;de Prim, 11;28004;Spain;40.421966542920;-3.693729043007;Madrid
+Teatro María Guerrero;Teatro María Guerrero;de Tamayo y Baus, 4;28004;Spain;40.422889492692;-3.693037033081;Madrid
+Teatro Maravillas;Teatro Maravillas;de Manuela Malasaña, 6;28004;Spain;40.428729102562;-3.703240156174;Madrid
+Teatro Lope de Vega;Teatro Lope de Vega;Gran Vía, 57;28013;Spain;40.421799300000;-3.708696800000;Madrid
+Teatro Nuevo Apolo;Teatro Nuevo Apolo;Tirso de Molina, 1;28012;Spain;40.412347800000;-3.703341900000;Madrid
+El Pavón Teatro Kamikaze;El Pavón Teatro Kamikaze;de Embajadores, 9;28012;Spain;40.410114089174;-3.706212043762;Madrid
+Teatro Pradillo;Teatro Pradillo;de Pradillo, 12;28002;Spain;40.448575901361;-3.674626350403;Madrid
+Teatro Príncipe Gran Vía;Teatro Príncipe Gran Vía;de las Tres Cruces, 8;28013;Spain;40.419573348683;-3.702655434609;Madrid
+Teatro Rialto;Teatro Rialto;Gran Vía, 54;28013;Spain;40.421345790817;-3.707231283188;Madrid
+Teatro Sanpol;Teatro Sanpol;de San Pol de Mar, 1;28008;Spain;40.424024785221;-3.727122545242;Madrid
+Teatro Valle-Inclán;Teatro Valle-Inclán;de Ana Diosdado, s/n;28012;Spain;40.408231064062;-3.700504302979;Madrid
+Teatro Fígaro - Adolfo Marsillach;Teatro Fígaro - Adolfo Marsillach;del Doctor Cortezo, 5;28012;Spain;40.413463374568;-3.703701496124;Madrid
+Teatro Calderón;Teatro Calderón;de Atocha, 18;28012;Spain;40.414043355837;-3.703497648239;Madrid
+Teatro La Latina;Teatro La Latina;de la Cebada, 2;28005;Spain;40.411445654305;-3.708760142326;Madrid
+Teatro Lara - Sala Cándido Lara;Teatro Lara - Sala Cándido Lara;Corredera Baja de San Pablo, 15;28004;Spain;40.422098900000;-3.704451100000;Madrid
+Teatro de la Zarzuela;Teatro de la Zarzuela;de Jovellanos, 4;28014;Spain;40.417196500000;-3.696856200000;Madrid
+Teatro Coliseum;Teatro Coliseum;Gran Vía, 78;28013;Spain;40.423279700000;-3.710338100000;Madrid
+Sala Mirador;Sala Mirador;del Doctor Fourquet , 31;28012;Spain;40.407062000000;-3.698923100000;Madrid
+Teatro Bellas Artes;La Comedia del Fantasma, online y gratis (Teatro Bellas Artes);del Marqués de Casa Riera, 2;28014;Spain;40.418335878681;-3.696389794350;Madrid
+Teatro Cofidis Alcazar;Teatro Cofidis Alcazar;de Alcalá, 20;28014;Spain;40.417785300000;-3.699089300000;Madrid
+Teatro Alfil;Teatro Alfil;del Pez, 10;28004;Spain;40.423180000000;-3.704520000000;Madrid
+Teatro Amaya;Teatro Amaya;del General Martínez Campos, 9;28010;Spain;40.435030500000;-3.697080600000;Madrid
+Arlequín Gran Vía Teatro;Arlequín Gran Vía Teatro;de San Bernardo , 5;28013;Spain;40.421174266200;-3.708204925060;Madrid
+DT Espacio Escénico;DT Espacio Escénico;de la Reina, 9;28004;Spain;40.420423400000;-3.700303700000;Madrid
+Teatro Karpas;Teatro Karpas;de Santa Isabel, 19;28012;Spain;40.410463321228;-3.697682619095;Madrid
+Madrid Caja Mágica;Madrid Caja Mágica;de Perales, 23;28041;Spain;40.368838851422;-3.684443235397;Madrid
+Nuevo Teatro Alcalá;Nuevo Teatro Alcalá;de Jorge Juan, 62;28009;Spain;40.423395884533;-3.678274154663;Madrid
+IFEMA Palacio Municipal;IFEMA Palacio Municipal;de la Capital de España, 7;28042;Spain;40.462266409026;-3.616358041763;Madrid
+Museo ICO;Museo ICO;de Zorrilla, 3;28014;Spain;40.416828830020;-3.697789907455;Madrid
+Museo del Ferrocarril;Museo del Ferrocarril;de las Delicias, 61;28045;Spain;40.398749783694;-3.691465258598;Madrid
+Palacio de Congresos de Madrid;Palacio de Congresos de Madrid;de la Castellana, 99;28046;Spain;40.453267500000;-3.691255600000;Madrid
+Real Academia de Bellas Artes de San Fernando;Real Academia de Bellas Artes de San Fernando;de Alcalá, 13;28014;Spain;40.417792691591;-3.700713515282;Madrid
+Residencia de Estudiantes;Residencia de Estudiantes;del Pinar, 21-23;28006;Spain;40.440657700000;-3.688052600000;Madrid
+Artespacio Plot Point;Artespacio Plot Point;de Ercilla, 29;28005;Spain;40.401977082034;-3.702038526535;Madrid
+Cuarta Pared;Cuarta Pared;de Ercilla, 17;28005;Spain;40.402776600000;-3.702656900000;Madrid
+Edificio de Telefónica;Edificio de Telefónica;Gran Vía, 28;28004;Spain;40.420194117140;-3.701850771904;Madrid
+Fundación Montemadrid;Fundación Montemadrid;de San Martín, 1;28013;Spain;40.418217439765;-3.707043528557;Madrid
+Fundación Canal Mateo Inurria;Fundación Canal Mateo Inurria;Mateo Inurria, 2;28036;Spain;40.466168141834;-3.688128590584;Madrid
+Fundación Mapfre.  Sala Recoletos;Fundación Mapfre. Sala Recoletos;de Recoletos, 23;28004;Spain;40.422726139673;-3.692103624344;Madrid
+Espacio Fundación Telefónica;Espacio Fundación Telefónica;de Fuencarral, 3;28004;Spain;40.420422819865;-3.701587915421;Madrid
+Instituto Cervantes;Instituto Cervantes;de Alcalá, 49;28014;Spain;40.419341000000;-3.695351000000;Madrid
+Museo Cerralbo;Museo Cerralbo;de Ventura Rodríguez, 17;28008;Spain;40.423767508377;-3.714542984963;Madrid
+Centre Cultural - Librería Blanquerna;Centre Cultural - Librería Blanquerna;de Alcalá, 44;28014;Spain;40.418566629764;-3.696134984493;Madrid
+Centro Cultural Galileo;Centro Cultural Galileo;de Galileo, 39;28015;Spain;40.433694413901;-3.710460662842;Madrid
+Fundación Canal Sala Castellana 214;Fundación Canal Sala Castellana 214;de la Castellana, 214;28046;Spain;40.464544800000;-3.688861100000;Madrid
+Sala de Arte Joven de la Comunidad de Madrid;Sala de Arte Joven de la Comunidad de Madrid;de América, 13;28002;Spain;40.438610364244;-3.676316142082;Madrid
+Círculo de Bellas Artes;Círculo de Bellas Artes;de Alcalá, 42;28014;Spain;40.418383900000;-3.696682700000;Madrid
+Museo del Romanticismo;Museo del Romanticismo;de San Mateo, 13;28004;Spain;40.425993124697;-3.698970079422;Madrid
+Museo ABC de dibujo e ilustración;Museo ABC de dibujo e ilustración;de Amaniel, 29 - 31;28015;Spain;40.427798065871;-3.709698915482;Madrid
+Real Oratorio del Caballero de Gracia;Real Oratorio del Caballero de Gracia;Gran Vía, 17;28013;Spain;40.419797969510;-3.700649142265;Madrid
+Iglesia de San Pedro el Viejo;Iglesia de San Pedro el Viejo;del Nuncio, 14;28005;Spain;40.413192800000;-3.709977200000;Madrid
+Iglesia San Nicolás de Bari de los Servitas;Iglesia San Nicolás de Bari de los Servitas;San Nicolás, 6;28013;Spain;40.415909881342;-3.711876869202;Madrid
+Iglesia de la Concepción Real de Calatrava (Iglesia de las Calatravas);Iglesia de la Concepción Real de Calatrava (Iglesia de las Calatravas);de Alcalá, 25;28014;Spain;40.418014900000;-3.698678300000;Madrid
+Casino de la Reina;Casino de la Reina;del Casino, 3;28005;Spain;40.406762000000;-3.705031000000;Madrid
+Casa de Las Siete Chimeneas;Casa de Las Siete Chimeneas;del Rey, 1;28004;Spain;40.420194117140;-3.696475625038;Madrid
+Basílica Pontificia de San Miguel;Basílica Pontificia de San Miguel;de San Justo, 4;28005;Spain;40.414255742094;-3.709701597691;Madrid
+Museo Casa de La Moneda;Museo Casa de La Moneda;del Doctor Esquerdo, 36;28028;Spain;40.422484900000;-3.669042000000;Madrid
+Museo de la Catedral de la Almudena;Museo de la Catedral de la Almudena;de la Almudena, s/n;28013;Spain;40.416036492794;-3.715020418167;Madrid
+Iglesia de San José;Iglesia de San José;de Alcalá, 43;28014;Spain;40.419066928067;-3.696706295013;Madrid
+Teatro de Títeres de El Retiro ;Teatro de Títeres de El Retiro ;de México (Parque del Retiro entrada por la Puerta de la Independencia), s/n;28009;Spain;40.418789211918;-3.686642646790;Madrid
+Palacio Real de El Pardo;Palacio Real de El Pardo;de Manuel Alonso, s/n;28048;Spain;40.521286488938;-3.775048255920;Madrid
+Palacio de Santa Cruz;Palacio de Santa Cruz;de la Provincia, 1;28012;Spain;40.414674400000;-3.706009000000;Madrid
+Palacio de Longoria;Palacio de Longoria;de Fernando VI, 4;28004;Spain;40.425478585084;-3.696674108505;Madrid
+Museo de aviones históricos en vuelo - Fundación Infante de Orleans;Museo de aviones históricos en vuelo - Fundación Infante de Orleans;del Barrio de la Fortuna, 14;28054;Spain;40.370556000000;-3.785000000000;Madrid
+Museo Nacional de Antropología;Museo Nacional de Antropología;de Alfonso XII, 68;28014;Spain;40.407679625911;-3.688981533051;Madrid
+Parque de la Fuente del Berro;Parque de la Fuente del Berro;Enrique D'almonte, 1;28028;Spain;40.422443900000;-3.662978600000;Madrid
+Parque del Oeste;Parque del Oeste;de Moret, 2;28008;Spain;40.434354200000;-3.721458500000;Madrid
+Parque Enrique Tierno Galván;Parque Enrique Tierno Galván;Meneses, 4;28045;Spain;40.391044494007;-3.683466911316;Madrid
+Madrid Snowzone;Madrid Snowzone;Autovía de Extremadura (A 5), salidas 22 - 25;28939;Spain;40.299788747445;-3.926196098328;Arroyomolinos
+Parque Warner Madrid;Parque Warner Madrid;A 4, salida 22;28330;Spain;40.230299406574;-3.593387603760;San Martín de la Vega
+Quinta de los Molinos;Quinta de los Molinos;de Alcalá, 527;28027;Spain;40.441156307424;-3.626929602542;Madrid
+Museo Nacional de Artes Decorativas;Museo Nacional de Artes Decorativas;de Montalbán, 12;28014;Spain;40.417983100000;-3.689554500000;Madrid
+Museo Geominero;Museo Geominero;de Rios Rosas, 23;28003;Spain;40.442506200000;-3.699631000000;Madrid
+Museo del Aire;Museo del Aire;A-5, Km 10,5;28024;Spain;40.364988693138;-3.804273605347;Madrid
+ La Gran Vía; La Gran Vía;Gran Vía, s/n;28013;Spain;40.420282400000;-3.705402700000;Madrid
+Invernadero del Palacio de Cristal de Arganzuela;Invernadero del Palacio de Cristal de Arganzuela;de la Chopera, 10;28045;Spain;40.392092767786;-3.699294362825;Madrid
+Iglesia de San Ginés;Iglesia de San Ginés;del Arenal, 13;28013;Spain;40.417224995134;-3.707022070885;Madrid
+Real Iglesia de San Andrés Apostol;Real Iglesia de San Andrés Apostol;de San Andrés, 1;28005;Spain;40.412017484005;-3.711415529251;Madrid
+Faunia;Faunia;de las Comunidades, 28;28032;Spain;40.392041410411;-3.612442016602;Madrid
+Barrio de las Letras;Barrio de las Letras;Santa Ana, s/n;28012;Spain;40.414702500000;-3.700838900000;Madrid
+Museo Nacional de Ciencia y Tecnología;Museo Nacional de Ciencia y Tecnología;del Pintor Murillo, 15;28100;Spain;40.537726326795;-3.641281127930;Alcobendas
+Matadero Madrid;Matadero Madrid;de Legazpi, 8;28045;Spain;40.391581700000;-3.696359800000;Madrid
+Teatro de La Abadía;Teatro de La Abadía;de Fernández de los Ríos, 42;28015;Spain;40.435303161468;-3.709430694580;Madrid
+Teatro Circo Price;Teatro Circo Price;de Atocha, 35;28012;Spain;40.405914993465;-3.698594570160;Madrid
+Puerta del Sol;Asómate al pasado de la Puerta del Sol;Puerta del Sol,;28013;Spain;40.416766778196;-3.703499537851;Madrid
+Plaza Mayor;Plaza Mayor;Mayor,;28012;Spain;40.415730100000;-3.707494400000;Madrid
+Zoo Aquarium;Zoo Aquarium;Casa de Campo, s/n;28011;Spain;40.409133778988;-3.760972023010;Madrid
+Parque de Atracciones;Parque de Atracciones;Casa de Campo, s/n;28011;Spain;40.411449000000;-3.751802700000;Madrid
+Planetario;Planetario;del Planetario, 16;28045;Spain;40.392646090220;-3.685290813446;Madrid
+Teleférico de Madrid;Teleférico de Madrid;Pintor Rosales, s/n;28011;Spain;40.427904237373;-3.721876144409;Madrid
+Jardines de la Plaza de Oriente;Jardines de la Plaza de Oriente;de Bailén, 17;28013;Spain;40.418406475349;-3.711932579635;Madrid
+Punto Información Turística Aeropuerto Adolfo Suárez Madrid-Barajas (T4. Sala 10);Punto Información Turística Aeropuerto Adolfo Suárez Madrid-Barajas (T4. Sala 10);Hispanidad, s/n;28042;Spain;40.490074300000;-3.593250400000;Madrid
+Jardines Plaza de España;Jardines Plaza de España;de España, s/n;28008;Spain;40.423395884533;-3.712177276611;Madrid
+Jardines del Templo de Debod;Jardines del Templo de Debod;de Ferraz, 1;28008;Spain;40.424032952724;-3.717777729034;Madrid
+Centro de Turismo Plaza Mayor;Centro de Turismo Plaza Mayor;Mayor, 27  (Casa de la Panadería);28012;Spain;40.415848617651;-3.707410991192;Madrid
+Casa de Campo;Casa de Campo;de Puerta del Angel, 1 (Múltiples accesos);28011;Spain;40.419769381446;-3.748912811279;Madrid
+ Plaza de toros Monumental de Las Ventas; Plaza de toros Monumental de Las Ventas;de Alcalá , 237;28028;Spain;40.432101960891;-3.663307428360;Madrid
+Hemeroteca Municipal;Hemeroteca Municipal;del Conde Duque, 9 y 11;28015;Spain;40.427414213658;-3.710739612579;Madrid
+Parque de El Retiro;Parque de El Retiro;de la Independencia, 7;28014;Spain;40.415260483375;-3.684499561787;Madrid
+Jardines del Príncipe de Anglona;Jardines del Príncipe de Anglona;de la Paja, 6;28005;Spain;40.413524640431;-3.711442351341;Madrid
+Servicio de Atención al Turista Extranjero (SATE);Servicio de Atención al Turista Extranjero (SATE);de Leganitos, 19 (Comisaría),;28004;Spain;40.421565300000;-3.710095100000;Madrid
+Aeropuerto Adolfo Suárez Madrid-Barajas ;Aeropuerto Adolfo Suárez Madrid-Barajas ;de la Hispanidad, s/n;28042;Spain;40.468555024635;-3.570655030748;Madrid
+Estación Avenida de América;Estación Avenida de América;de América, 9;28002;Spain;40.438055600000;-3.676666700000;Madrid
+Estación de Méndez álvaro;Estación de Méndez álvaro;de Méndez Álvaro, 83;28045;Spain;40.395457191140;-3.678670977535;Madrid
+La Rosaleda de El Retiro;La Rosaleda de El Retiro;de Uruguay y Fernán Núñez (dentro del Retiro) ,;28014;Spain;40.414693000000;-3.682709000000;Madrid
+Paseo de Recoletos;Paseo de Recoletos;de Recoletos, s/n;28014;Spain;40.419777400000;-3.692886600000;Madrid
+Jardines de la Plaza de la Lealtad;Jardines de la Plaza de la Lealtad;de la Lealtad,;28014;Spain;40.416172000000;-3.692353000000;Madrid
+Estación de Chamartín;Estación de Chamartín;Agustín de Foxa, s/n;28036;Spain;40.471094700000;-3.684559900000;Madrid
+Paseo del Prado;Paseo del Prado;del Prado;28014;Spain;40.417992000000;-3.692802000000;Madrid
+Jardín vertical CaixaForum;Jardín vertical CaixaForum;del Prado , 36;28014;Spain;40.411111700000;-3.693571400000;Madrid
+Antiguo Hotel Roma;Antiguo Hotel Roma;Gran Vía, 18;28013;Spain;40.419762000000;-3.699898000000;Madrid
+Casino de Madrid;Casino de Madrid;de Alcalá, 15;28017;Spain;40.417794600000;-3.700412500000;Madrid
+Real Fábrica de Tapices;Real Fábrica de Tapices;Fuenterrabía, 2;28014;Spain;40.406055200000;-3.682493300000;Madrid
+Palacio de Fomento (Ministerio de Agricultura);Palacio de Fomento (Ministerio de Agricultura);de la Infanta Isabel , 1;28014;Spain;40.408637200000;-3.690616800000;Madrid
+Conde Duque;Conde Duque;del Conde Duque, 11;28015;Spain;40.428130000000;-3.710730000000;Madrid
+ Palacio de Cibeles; Palacio de Cibeles;de la Cibeles, 1;28014;Spain;40.418933900000;-3.692152100000;Madrid
+Parque de El Capricho;Parque El Capricho de la Alameda de Osuna;de la Alameda de Osuna, 25;28042;Spain;40.454395800000;-3.600227600000;Madrid
+Jardines de Sabatini;Jardines de Sabatini;de Bailén, 2;28013;Spain;40.420341140410;-3.714022636414;Madrid
+Jardines del Museo Reina Sofía;Jardines del Museo Reina Sofía;de Santa Isabel , 52;28012;Spain;40.408260000000;-3.694346000000;Madrid
+Campo del Moro;Campo del Moro;Virgen del Puerto, s/n;28005;Spain;40.418707530479;-3.717970848084;Madrid
+Jardín de las Vistillas;Jardín de las Vistillas;Gabriel Miró, s/n;28005;Spain;40.412589308845;-3.715460300446;Madrid
+Jardín tropical Estación de Atocha;Jardín tropical Estación de Atocha;de Carlos V , s/n;28045;Spain;40.407516423318;-3.692099939923;Madrid
+Monasterio de las Descalzas Reales;Monasterio de las Descalzas Reales;de las Descalzas, s/n;28013;Spain;40.418182000000;-3.706517000000;Madrid
+Museo Nacional de Ciencias Naturales;Museo Nacional de Ciencias Naturales;de José Gutierrez Abascal, 2;28006;Spain;40.441019212010;-3.689711093903;Madrid
+ Cuatro Torres Business Area; Cuatro Torres Business Area;de la Castellana, 259;28046;Spain;40.477525138612;-3.687629699707;Madrid
+Museo Lázaro Galdiano;Museo Lázaro Galdiano;de Serrano, 122;28006;Spain;40.436927800000;-3.685738500000;Madrid
+Museo del Traje;Museo del Traje;de Juan de Herrera, 2;28040;Spain;40.439899500000;-3.729123500000;Madrid
+  Fuente de Cibeles;  Fuente de Cibeles;de Cibeles, s/n;28014;Spain;40.419344643071;-3.693090677261;Madrid
+Real Casa de Correos;Real Casa de Correos;Puerta del Sol, 7;28013;Spain;40.416408157294;-3.703803420067;Madrid
+Museo de San Isidro. Los Orígenes de Madrid;Museo de San Isidro. Los Orígenes de Madrid;de San Andrés, 1;28005;Spain;40.412086920137;-3.711061477661;Madrid
+ Estadio Vicente Calderón; Estadio Vicente Calderón;de la Virgen del Puerto, 67;28005;Spain;40.401729700000;-3.720635300000;Madrid
+Estadio Santiago Bernabéu; Estadio Santiago Bernabéu;de Concha Espina, 1;28036;Spain;40.453125200000;-3.689373500000;Madrid
+Iglesia de San Antonio de los Alemanes;Iglesia de San Antonio de los Alemanes;de la Puebla , 22;28004;Spain;40.422464774016;-3.703680038452;Madrid
+Panteón de Hombres Ilustres;Panteón de Hombres Ilustres;de Julián Gayarre, 3;28014;Spain;40.406233611080;-3.683397173882;Madrid
+Puente de Segovia;Puente de Segovia;Segovia, s/n;28005;Spain;40.413986174808;-3.722820281982;Madrid
+Casita Museo de Ratón Pérez;Casita Museo de Ratón Pérez;del Arenal, 8,  1ª planta;28013;Spain;40.417160158992;-3.705417439342;Madrid
+Casón del Buen Retiro;Casón del Buen Retiro;de Alfonso XII, 28;28014;Spain;40.415403000000;-3.689032000000;Madrid
+Banco de España;Banco de España;de Alcalá, 48;28014;Spain;40.418763101876;-3.694382095093;Madrid
+Andén 0. Estación de Chamberí;Andén 0. Estación de Chamberí;Chamberí, s/n;28010;Spain;40.432262228701;-3.697714805603;Madrid
+ Torres Kio (Puerta de Europa); Torres Kio (Puerta de Europa);de Castilla, s/n;28046;Spain;40.466420400000;-3.689530900000;Madrid
+Museo Tiflológico de la Once;Museo Tiflológico de la Once;de la Coruña, 18;28020;Spain;40.455266393601;-3.700273633003;Madrid
+Museo Taurino;Museo Taurino;de Alcalá, 237;28028;Spain;40.431581100000;-3.662863200000;Madrid
+ Teatro Real; TEATRO REAL;de Isabel II, s/n;28013;Spain;40.418299121798;-3.710589408875;Madrid
+Museo Sorolla;Museo Sorolla;General Martínez Campos, 37;28010;Spain;40.435436300000;-3.692517300000;Madrid
+Real Basílica de San Francisco El Grande;Real Basílica de San Francisco El Grande;Gran Vía de San Francisco, 19;28005;Spain;40.410457194365;-3.714323043823;Madrid
+Puerta de Toledo;Puerta de Toledo ;Puerta de Toledo, 1;28005;Spain;40.406765000000;-3.711629000000;Madrid
+Templo de Debod;Templo de Debod  en 3D;de Ferraz, 1;28008;Spain;40.424054392414;-3.717530965805;Madrid
+ Real Colegiata de San Isidro y Nuestra Señora del Buen Consejo; Real Colegiata de San Isidro y Nuestra Señora del Buen Consejo;de Toledo, 37;28005;Spain;40.412946696903;-3.707244694233;Madrid
+Ermita de San Antonio de la Florida (Museo);Ermita de San Antonio de la Florida (Museo);San Antonio de la Florida, 5;28008;Spain;40.425346000000;-3.726062000000;Madrid
+Puente de Toledo;Puente de Toledo;Marqués de Vadillo,;28019;Spain;40.398132000000;-3.716251000000;Madrid
+ Plaza de la Villa; Plaza de la Villa;de la Villa;28005;Spain;40.415193092661;-3.710777163506;Madrid
+El ángel Caído;El ángel Caído;del Ángel Caído (Parque del Buen Retiro);28014;Spain;40.411026224343;-3.682477176189;Madrid
+Catedral de la Almudena;Catedral de la Almudena;de Bailén, 10;28013;Spain;40.415652573463;-3.714559078217;Madrid
+Puerta de Alcalá;Puerta de Alcalá;de la Independencia, s/n;28001;Spain;40.419788100000;-3.688332900000;Madrid
+  Plaza de España;  Plaza de España;de España, s/n;28008;Spain;40.423387716953;-3.712166547775;Madrid
+Palacio Real;Palacio Real;de Bailén , s/n;28013;Spain;40.417956056591;-3.714323043823;Madrid
+Real Monasterio de la Encarnación;Real Monasterio de la Encarnación;de la Encarnación, 1;28013;Spain;40.420047093550;-3.711576461792;Madrid
+Estación de Príncipe Pío;Estación de Príncipe Pío;de La Florida, 2;28008;Spain;40.421704983309;-3.720283817992;Madrid
+Museo de Escultura al Aire Libre de La Castellana;Museo de Escultura al Aire Libre de La Castellana;de la Castellana, 40;28046;Spain;40.433108477242;-3.687707483769;Madrid
+Museo Arqueológico Nacional;Museo Arqueológico Nacional;de Serrano, 13;28001;Spain;40.423278800000;-3.688854100000;Madrid
+Museo de América;Museo de América;de los Reyes Católicos, 6;28040;Spain;40.438275000000;-3.721967600000;Madrid
+Museo de Arte Contemporáneo ;Museo de Arte Contemporáneo ;del Conde Duque, 9;28015;Spain;40.426744508808;-3.711168766022;Madrid
+Museo de Cera;Museo de Cera;de Recoletos, 41;28004;Spain;40.424882367592;-3.691234588623;Madrid
+Museo de Historia;Museo de Historia;de Fuencarral, 78;28004;Spain;40.425777300000;-3.700831500000;Madrid
+Museo de la Biblioteca Nacional;Museo de la Biblioteca Nacional;de Recoletos, 20 - 22;28001;Spain;40.423724503235;-3.690224317077;Madrid
+Punto de Información Turística Reina Sofía;Punto de Información Turística Reina Sofía;de Santa Isabel, 52;28012;Spain;40.408346492401;-3.693295019759;Madrid
+ Fuente de Neptuno; Fuente de Neptuno;Cánovas del Castillo, s/n;28014;Spain;40.415240000000;-3.694166000000;Madrid
+Casa de Quevedo;Casa de Quevedo;de Quevedo, 7;28014;Spain;40.413877400000;-3.697663600000;Madrid
+Casa de Cervantes;Casa de Cervantes;de Cervantes, 2;28014;Spain;40.414312922895;-3.698589205742;Madrid
+Teatro de la Comedia;Teatro de la Comedia;del Príncipe, 14;28012;Spain;40.415534129823;-3.700394332409;Madrid
+Iglesia de San Ignacio de los Vascos;Iglesia de San Ignacio de los Vascos;del Príncipe, 31;28012;Spain;40.414726000000;-3.699578000000;Madrid
+Basílica de Jesús de Medinaceli;Basílica de Jesús de Medinaceli;de Jesús, 2;28014;Spain;40.414047000000;-3.695587600000;Madrid
+Palacio de Duques de Santoña (Cámara de Comercio);Palacio de Duques de Santoña (Cámara de Comercio);de las Huertas, 13;28012;Spain;40.413914000000;-3.700241000000;Madrid
+Casa Museo Lope de Vega;Casa Museo Lope de Vega;de Cervantes, 11;28014;Spain;40.414386440996;-3.697457313538;Madrid
+Real Jardín Botánico;Real Jardín Botánico;de Murillo, 2;28014;Spain;40.411110723225;-3.691127300263;Madrid
+Congreso de los Diputados;Congreso de los Diputados;de las Cortes, s/n;28014;Spain;40.416399988866;-3.696604371071;Madrid
+Ateneo Científico, Literario y Artístico de Madrid;Ateneo Científico, Literario y Artístico de Madrid;del Prado, 21;28014;Spain;40.415088943243;-3.698219060898;Madrid
+Museo Reina Sofía ;Museo Reina Sofía ;de Santa Isabel, 52;28012;Spain;40.407924710092;-3.694560527802;Madrid
+Museo del Prado;Museo del Prado;del Prado, s/n;28014;Spain;40.413810000000;-3.692524000000;Madrid
+Museo Nacional Thyssen-Bornemisza;Museo Nacional Thyssen-Bornemisza;del Prado, 8;28014;Spain;40.416039700000;-3.694942500000;Madrid
+Teatro Monumental;Teatro Monumental;de Atocha, 65;28012;Spain;40.412547400000;-3.699166500000;Madrid
+Teatro Reina Victoria;Teatro Reina Victoria;de San Jerónimo, 24;28014;Spain;40.416484736263;-3.699844479561;Madrid
+Real Academia de la Historia;Real Academia de la Historia;del León, 21;28014;Spain;40.413500134093;-3.698970079422;Madrid
+MediaLab Prado;MediaLab Prado;de las Letras. Calle Alameda, 15;28014;Spain;40.410530716679;-3.693798780441;Madrid
+Iglesia de San Sebastián;Iglesia de San Sebastián;de Atocha, 39;28012;Spain;40.413565100000;-3.701508200000;Madrid
+Casa Asia;Casa Asia;Mayor, 69;28013;Spain;40.415374843220;-3.711198270321;Madrid
+Casa de América;Casa de América;de Cibeles, 2;28014;Spain;40.420050000000;-3.692259000000;Madrid
