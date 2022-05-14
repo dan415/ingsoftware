@@ -5,7 +5,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 import static java.lang.System.exit;
 
@@ -140,26 +139,30 @@ public class DataLoader {
 
     public boolean loadNodos() {
         boolean res = true;
+        List<List<String>> data = readFromCSV();
         this.openConnection();
+        for(List<String> row : data)
+            overwrite(row.get(0));
         try {
             conn.setAutoCommit(false);
         } catch (SQLException e) {
             System.err.println("Error de conexion al desactivar el AutoComit" + e.getMessage());
             return false;
         }
-        List<List<String>> data = readFromCSV();
+
         PreparedStatement pst = null;
-        String query = "INSERT INTO  allNodes  "
+        String query =
+                "INSERT INTO  allNodes  "
                 + "(id, lon, lat, name, opening_hours) VALUES (?,?,?,?,?);";
 
         try {
             pst = conn.prepareStatement(query);
-            for (int i = 1; i < data.size(); i++) {
-                pst.setLong(1, Long.parseLong(data.get(i).get(0)));
-                pst.setDouble(2, Double.parseDouble(data.get(i).get(1)));
-                pst.setDouble(3, Double.parseDouble(data.get(i).get(2)));
-                pst.setString(4, data.get(i).get(3));
-                pst.setString(5, data.get(i).get(4));
+            for (List<String> datum : data) {
+                pst.setLong(1, Long.parseLong(datum.get(0)));
+                pst.setDouble(2, Double.parseDouble(datum.get(1)));
+                pst.setDouble(3, Double.parseDouble(datum.get(2)));
+                pst.setString(4, datum.get(3));
+                pst.setString(5, datum.get(4));
                 pst.executeUpdate();
             }
             conn.commit();
@@ -177,30 +180,59 @@ public class DataLoader {
         return res;
     }
 
+    public void overwrite(String id){
+        this.openConnection();
+        try {
+            conn.setAutoCommit(true);
+        } catch (SQLException ignored) {}
+        PreparedStatement pst = null;
+        String query = "Delete FROM cuisine where id = ?;";
+        try {
+            pst = conn.prepareStatement(query);
+            pst.setLong(1, Long.parseLong(id));
+            pst.executeUpdate();
+        } catch (SQLException ignored) {}
+        finally {
+            try {
+                assert pst != null;
+                pst.close();
+            } catch (SQLException ignored) {}
+            finally {
+                try {
+                    conn.setAutoCommit(false);
+                } catch (SQLException ignored) {}
+            }
+        }
+    }
+
     public boolean loadCuisine() {
         boolean res = true;
+        List<List<String>> data = readFromCSV();
         this.openConnection();
+        for(List<String> row : data)
+            overwrite(row.get(0));
         try {
             conn.setAutoCommit(false);
         } catch (SQLException e) {
             System.err.println("Error de conexion al desactivar el AutoComit" + e.getMessage());
             return false;
         }
-        List<List<String>> data = readFromCSV();
+
         PreparedStatement pst = null;
-        String query = "INSERT INTO  cuisine  "
+        String query =
+                "INSERT INTO  cuisine  "
                 + "(id, lon, lat, name, opening_hours, phone, website) VALUES (?,?,?,?,?,?,?);";
 
         try {
             pst = conn.prepareStatement(query);
-            for (int i = 1; i < data.size(); i++) {
-                pst.setLong(1, Long.parseLong(data.get(i).get(0)));
-                pst.setDouble(2, Double.parseDouble(data.get(i).get(1)));
-                pst.setDouble(3, Double.parseDouble(data.get(i).get(2)));
-                pst.setString(4, data.get(i).get(3));
-                pst.setString(5, data.get(i).get(4));
-                pst.setString(6, data.get(i).get(4));
-                pst.setString(7, data.get(i).get(4));
+            for (List<String> datum : data) {
+                pst.setLong(1, Long.parseLong(datum.get(0)));
+                pst.setDouble(2, Double.parseDouble(datum.get(1)));
+                pst.setDouble(3, Double.parseDouble(datum.get(2)));
+                pst.setString(4, datum.get(3));
+                pst.setString(5, datum.get(4));
+                pst.setString(6, datum.get(5));
+                pst.setString(7, datum.get(6));
                 pst.executeUpdate();
             }
             conn.commit();
@@ -241,7 +273,7 @@ public class DataLoader {
             status = dataLoader.createDB() && dataLoader.crateAllNodesTable() && dataLoader.loadNodos() ? 0 : -1;
         else if (args.length == 1 && args[0].equals("--cuisine"))
             status = dataLoader.createDB() && dataLoader.createCuisineTable() && dataLoader.loadCuisine() ? 0 : -1;
-        else
+            else
             System.out.println("USO: [--cusine]");
         if (dataLoader.connected)
             dataLoader.closeConnection();
