@@ -114,7 +114,7 @@ public class DataLoader {
                     + "  lat DOUBLE,"
                     + "  name VARCHAR(300),"
                     + "  opening_hours VARCHAR(300),"
-                    + "  phone VARCHAR(15),"
+                    + "  phone VARCHAR(300),"
                     + "  website VARCHAR(200),"
                     + "  PRIMARY KEY (id));";
 
